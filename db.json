@@ -1,0 +1,1400 @@
+{
+  "users": [
+    {
+      "fullName": "O'zbekiston ko'zi ojizlar jamiyati Qashqadaryo viloyat bo'limi",
+      "shortName": "O'zKOJ Qashqadaryo VB",
+      "email": "ozkojqvb@yandex.ru",
+      "password": "$2a$10$sJweWlNW/yxK5sSbdv/EX.ed.cw/vu0C/EaAN4.5AS/0k5OzjqCs2",
+      "address": {
+        "street": "Ko'cha nomi",
+        "location": "Qarshi shahri",
+        "region": "Qashqadaryo viloyati",
+        "postalCode": "123456"
+      },
+      "balance": {
+        "accountBalance": 0,
+        "cashBalance": 0,
+        "membershipBalance": 0
+      },
+      "status": 1,
+      "createdTime": "2000-10-01T19:00:00.000Z",
+      "role": 1,
+      "phone": "998901234577",
+      "parentOrganization": null,
+      "other": {
+        "INN": "4561231",
+        "KTUT": "4512345",
+        "MHOBT": "45454",
+        "XXTUT": "124521"
+      },
+      "id": "qvb123"
+    }
+  ],
+
+  "identified-blinds": {
+    "success": true,
+    "total": 40,
+    "items": [
+      {
+        "id": 1,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Aliyev",
+          "lastName": "Vali",
+          "middleName": "Samiyevich",
+          "gender": 1,
+          "birthDate": "1985-03-15",
+          "passportSeries": "AA",
+          "passportNumber": "1234567",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 0,
+          "disabilityCategory": 1,
+          "disabilityOccurred": "2023-01-01",
+          "disabilityAssigned": "2023-02-01",
+          "disabilityValidityPeriod": "2025-01-01"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Mustaqillik ko'chasi, 1-uy",
+          "phone": "998901234567"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi Davlat Universiteti",
+          "specialty": "Tarix fani o'qituvchisi",
+          "workplace": "Qarshi shahri, 1-maktab",
+          "position": "Tarix fani o'qituvchisi"
+        },
+        "registrationDate": "2023-01-15"
+      },
+      {
+        "id": 2,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Karimov",
+          "lastName": "Jasur",
+          "middleName": "Akmalovich",
+          "gender": 1,
+          "birthDate": "1992-06-20",
+          "passportSeries": "AB",
+          "passportNumber": "2345678",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 1,
+          "disabilityCategory": 2,
+          "disabilityOccurred": "2023-02-15",
+          "disabilityAssigned": "2023-03-15",
+          "disabilityValidityPeriod": "2025-02-15"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Navoiy ko'chasi, 12-uy",
+          "phone": "998902345678"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi muhandislik-iqtisodiyot instituti",
+          "specialty": "Dasturchi",
+          "workplace": "Raqamli texnologiyalar markazi",
+          "position": "Senior dasturchi"
+        },
+        "registrationDate": "2023-02-01"
+      },
+      {
+        "id": 3,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Sadikova",
+          "lastName": "Dilnoza",
+          "middleName": "Botirovna",
+          "gender": 0,
+          "birthDate": "1988-09-12",
+          "passportSeries": "AC",
+          "passportNumber": "3456789",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 2,
+          "disabilityCategory": 1,
+          "disabilityOccurred": "2023-03-01",
+          "disabilityAssigned": "2023-04-01",
+          "disabilityValidityPeriod": "2025-03-01"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Amir Temur ko'chasi, 45-uy",
+          "phone": "998903456789"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi tibbiyot kolleji",
+          "specialty": "Hamshira",
+          "workplace": "Qarshi shahar klinikasi",
+          "position": "Katta hamshira"
+        },
+        "registrationDate": "2023-03-01"
+      },
+      {
+        "id": 4,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Rahimov",
+          "lastName": "Sardor",
+          "middleName": "Rustamovich",
+          "gender": 1,
+          "birthDate": "1995-04-25",
+          "passportSeries": "AD",
+          "passportNumber": "4567890",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 0,
+          "disabilityCategory": 3,
+          "disabilityOccurred": "2023-04-01",
+          "disabilityAssigned": "2023-05-01",
+          "disabilityValidityPeriod": "2025-04-01"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Ibn Sino ko'chasi, 23-uy",
+          "phone": "998904567890"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi pedagogika instituti",
+          "specialty": "Matematika o'qituvchisi",
+          "workplace": "Qarshi shahri, 5-maktab",
+          "position": "Matematika fani o'qituvchisi"
+        },
+        "registrationDate": "2023-04-01"
+      },
+      {
+        "id": 5,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Umarova",
+          "lastName": "Malika",
+          "middleName": "Shuxratovna",
+          "gender": 0,
+          "birthDate": "1991-11-08",
+          "passportSeries": "AE",
+          "passportNumber": "5678901",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 1,
+          "disabilityCategory": 2,
+          "disabilityOccurred": "2023-05-01",
+          "disabilityAssigned": "2023-06-01",
+          "disabilityValidityPeriod": "2025-05-01"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Bobur ko'chasi, 78-uy",
+          "phone": "998905678901"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi iqtisodiyot kolleji",
+          "specialty": "Buxgalter",
+          "workplace": "Qarshi savdo markazi",
+          "position": "Bosh buxgalter"
+        },
+        "registrationDate": "2023-05-01"
+      },
+      {
+        "id": 6,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Azimov",
+          "lastName": "Jamshid",
+          "middleName": "Alisher o'g'li",
+          "gender": 1,
+          "birthDate": "1987-07-14",
+          "passportSeries": "AF",
+          "passportNumber": "6789012",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 2,
+          "disabilityCategory": 1,
+          "disabilityOccurred": "2023-06-01",
+          "disabilityAssigned": "2023-07-01",
+          "disabilityValidityPeriod": "2025-06-01"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Istiqlol ko'chasi, 34-uy",
+          "phone": "998906789012"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi muhandislik instituti",
+          "specialty": "Muhandis",
+          "workplace": "Qarshi neftni qayta ishlash zavodi",
+          "position": "Bosh muhandis"
+        },
+        "registrationDate": "2023-06-01"
+      },
+      {
+        "id": 7,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Rustamova",
+          "lastName": "Sevara",
+          "middleName": "Anvarovna",
+          "gender": 0,
+          "birthDate": "1993-12-30",
+          "passportSeries": "AG",
+          "passportNumber": "7890123",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 0,
+          "disabilityCategory": 2,
+          "disabilityOccurred": "2023-07-01",
+          "disabilityAssigned": "2023-08-01",
+          "disabilityValidityPeriod": "2025-07-01"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Ulug'bek ko'chasi, 56-uy",
+          "phone": "998907890123"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi til o'rganish markazi",
+          "specialty": "Ingliz tili o'qituvchisi",
+          "workplace": "Qarshi xususiy maktab",
+          "position": "Ingliz tili o'qituvchisi"
+        },
+        "registrationDate": "2023-07-01"
+      },
+      {
+        "id": 8,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Hasanov",
+          "lastName": "Sherzod",
+          "middleName": "Baxtiyorovich",
+          "gender": 1,
+          "birthDate": "1989-02-17",
+          "passportSeries": "AH",
+          "passportNumber": "8901234",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 1,
+          "disabilityCategory": 3,
+          "disabilityOccurred": "2023-08-01",
+          "disabilityAssigned": "2023-09-01",
+          "disabilityValidityPeriod": "2025-08-01"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Beruniy ko'chasi, 89-uy",
+          "phone": "998908901234"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi sport kolleji",
+          "specialty": "Jismoniy tarbiya o'qituvchisi",
+          "workplace": "Qarshi olimpiya zaxiralari kolleji",
+          "position": "Sport ustozi"
+        },
+        "registrationDate": "2023-08-01"
+      },
+      {
+        "id": 9,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Nasriddinova",
+          "lastName": "Gulnora",
+          "middleName": "Tohirovna",
+          "gender": 0,
+          "birthDate": "1994-08-05",
+          "passportSeries": "AI",
+          "passportNumber": "9012345",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 2,
+          "disabilityCategory": 1,
+          "disabilityOccurred": "2023-09-01",
+          "disabilityAssigned": "2023-10-01",
+          "disabilityValidityPeriod": "2025-09-01"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Al-Xorazmiy ko'chasi, 12-uy",
+          "phone": "998909012345"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi san'at kolleji",
+          "specialty": "Musiqachi",
+          "workplace": "Qarshi madaniyat saroyi",
+          "position": "Musiqa rahbari"
+        },
+        "registrationDate": "2023-09-01"
+      },
+      {
+        "id": 10,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Toshmatov",
+          "lastName": "Farrux",
+          "middleName": "Ilhomovich",
+          "gender": 1,
+          "birthDate": "1990-05-23",
+          "passportSeries": "AJ",
+          "passportNumber": "0123456",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 0,
+          "disabilityCategory": 2,
+          "disabilityOccurred": "2023-10-01",
+          "disabilityAssigned": "2023-11-01",
+          "disabilityValidityPeriod": "2025-10-01"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Furqat ko'chasi, 67-uy",
+          "phone": "998900123456"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi politexnika instituti",
+          "specialty": "Elektrik muhandis",
+          "workplace": "Qarshi elektr tarmoqlari",
+          "position": "Bosh energetik"
+        },
+        "registrationDate": "2023-10-01"
+      },
+      {
+        "id": 11,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Sharipov",
+          "lastName": "Humoyun",
+          "middleName": "Olimovich",
+          "gender": 1,
+          "birthDate": "1993-08-25",
+          "passportSeries": "BA",
+          "passportNumber": "7654321",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 1,
+          "disabilityCategory": 2,
+          "disabilityOccurred": "2023-01-15",
+          "disabilityAssigned": "2023-02-15",
+          "disabilityValidityPeriod": "2025-02-15"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Yangi hayot ko'chasi, 45-uy",
+          "phone": "998911234567"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi avtomobil va yo'l qurilish kolleji",
+          "specialty": "Avtomobil muhandisi",
+          "workplace": "Qarshi avtoservis markazi",
+          "position": "Bosh mexanik"
+        },
+        "registrationDate": "2023-01-20"
+      },
+      {
+        "id": 12,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Nizomova",
+          "lastName": "Barno",
+          "middleName": "Abrorovna",
+          "gender": 0,
+          "birthDate": "1989-12-03",
+          "passportSeries": "BB",
+          "passportNumber": "8765432",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 2,
+          "disabilityCategory": 3,
+          "disabilityOccurred": "2023-02-20",
+          "disabilityAssigned": "2023-03-20",
+          "disabilityValidityPeriod": "2025-03-20"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Yoshlik ko'chasi, 78-uy",
+          "phone": "998912345678"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi xalqaro universiteti",
+          "specialty": "Psixolog",
+          "workplace": "Qarshi psixologiya markazi",
+          "position": "Amaliyotchi psixolog"
+        },
+        "registrationDate": "2023-02-25"
+      },
+      {
+        "id": 13,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Qodirov",
+          "lastName": "Asror",
+          "middleName": "Dilshodovich",
+          "gender": 1,
+          "birthDate": "1995-04-17",
+          "passportSeries": "BC",
+          "passportNumber": "9876543",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 0,
+          "disabilityCategory": 1,
+          "disabilityOccurred": "2023-03-10",
+          "disabilityAssigned": "2023-04-10",
+          "disabilityValidityPeriod": "2025-04-10"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Tinchlik ko'chasi, 23-uy",
+          "phone": "998913456789"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi biznes maktabi",
+          "specialty": "Marketing menejeri",
+          "workplace": "Qarshi savdo kompleksi",
+          "position": "Marketing bo'limi boshlig'i"
+        },
+        "registrationDate": "2023-03-15"
+      },
+      {
+        "id": 14,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Ergasheva",
+          "lastName": "Madina",
+          "middleName": "Farhodovna",
+          "gender": 0,
+          "birthDate": "1991-09-28",
+          "passportSeries": "BD",
+          "passportNumber": "1122334",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 1,
+          "disabilityCategory": 2,
+          "disabilityOccurred": "2023-04-05",
+          "disabilityAssigned": "2023-05-05",
+          "disabilityValidityPeriod": "2025-05-05"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Bog'ishamol ko'chasi, 56-uy",
+          "phone": "998914567890"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi pedagogika instituti",
+          "specialty": "Boshlang'ich sinf o'qituvchisi",
+          "workplace": "Qarshi shahri, 8-maktab",
+          "position": "Boshlang'ich sinf o'qituvchisi"
+        },
+        "registrationDate": "2023-04-10"
+      },
+      {
+        "id": 15,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Mahmudov",
+          "lastName": "Botir",
+          "middleName": "Shavkatovich",
+          "gender": 1,
+          "birthDate": "1987-11-12",
+          "passportSeries": "BE",
+          "passportNumber": "2233445",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 2,
+          "disabilityCategory": 1,
+          "disabilityOccurred": "2023-05-15",
+          "disabilityAssigned": "2023-06-15",
+          "disabilityValidityPeriod": "2025-06-15"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Shark ko'chasi, 34-uy",
+          "phone": "998915678901"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi qurilish kolleji",
+          "specialty": "Qurilish muhandisi",
+          "workplace": "Qarshi qurilish boshqarmasi",
+          "position": "Loyiha boshlig'i"
+        },
+        "registrationDate": "2023-05-20"
+      },
+      {
+        "id": 16,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Xolmatova",
+          "lastName": "Shahlo",
+          "middleName": "Akmalovna",
+          "gender": 0,
+          "birthDate": "1994-02-08",
+          "passportSeries": "BF",
+          "passportNumber": "3344556",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 0,
+          "disabilityCategory": 3,
+          "disabilityOccurred": "2023-06-20",
+          "disabilityAssigned": "2023-07-20",
+          "disabilityValidityPeriod": "2025-07-20"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Marifat ko'chasi, 67-uy",
+          "phone": "998916789012"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi moliya instituti",
+          "specialty": "Moliyachi",
+          "workplace": "Qarshi bank filiali",
+          "position": "Moliya tahlilchisi"
+        },
+        "registrationDate": "2023-06-25"
+      },
+      {
+        "id": 17,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Raxmonov",
+          "lastName": "Javlon",
+          "middleName": "Rustamovich",
+          "gender": 1,
+          "birthDate": "1992-06-30",
+          "passportSeries": "BG",
+          "passportNumber": "4455667",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 1,
+          "disabilityCategory": 2,
+          "disabilityOccurred": "2023-07-25",
+          "disabilityAssigned": "2023-08-25",
+          "disabilityValidityPeriod": "2025-08-25"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Olmazor ko'chasi, 89-uy",
+          "phone": "998917890123"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi agrar kolleji",
+          "specialty": "Agronom",
+          "workplace": "Qarshi issiqxona xo'jaligi",
+          "position": "Bosh agronom"
+        },
+        "registrationDate": "2023-07-30"
+      },
+      {
+        "id": 18,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Ismoilova",
+          "lastName": "Saida",
+          "middleName": "Bahromovna",
+          "gender": 0,
+          "birthDate": "1990-03-14",
+          "passportSeries": "BH",
+          "passportNumber": "5566778",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 2,
+          "disabilityCategory": 1,
+          "disabilityOccurred": "2023-08-30",
+          "disabilityAssigned": "2023-09-30",
+          "disabilityValidityPeriod": "2025-09-30"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Nurli ko'chasi, 12-uy",
+          "phone": "998918901234"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi xorijiy tillar instituti",
+          "specialty": "Tarjimon",
+          "workplace": "Qarshi tarjima markazi",
+          "position": "Katta tarjimon"
+        },
+        "registrationDate": "2023-09-05"
+      },
+      {
+        "id": 19,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Yunusov",
+          "lastName": "Akbar",
+          "middleName": "Aliyevich",
+          "gender": 1,
+          "birthDate": "1988-07-19",
+          "passportSeries": "BI",
+          "passportNumber": "6677889",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 0,
+          "disabilityCategory": 2,
+          "disabilityOccurred": "2023-10-05",
+          "disabilityAssigned": "2023-11-05",
+          "disabilityValidityPeriod": "2025-11-05"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Yangi asr ko'chasi, 45-uy",
+          "phone": "998919012345"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi kompyuter kolleji",
+          "specialty": "IT mutaxassisi",
+          "workplace": "Qarshi axborot texnologiyalari markazi",
+          "position": "Tizim administratori"
+        },
+        "registrationDate": "2023-10-10"
+      },
+      {
+        "id": 20,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Nazarova",
+          "lastName": "Kamola",
+          "middleName": "Jamshidovna",
+          "gender": 0,
+          "birthDate": "1996-10-22",
+          "passportSeries": "BJ",
+          "passportNumber": "7788990",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 1,
+          "disabilityCategory": 3,
+          "disabilityOccurred": "2023-11-10",
+          "disabilityAssigned": "2023-12-10",
+          "disabilityValidityPeriod": "2025-12-10"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Bunyodkor ko'chasi, 78-uy",
+          "phone": "998920123456"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi san'at universiteti",
+          "specialty": "Tasviriy san'at o'qituvchisi",
+          "workplace": "Qarshi san'at maktabi",
+          "position": "Tasviriy san'at o'qituvchisi"
+        },
+        "registrationDate": "2023-11-15"
+      },
+      {
+        "id": 21,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Zokirov",
+          "lastName": "Dilshod",
+          "middleName": "Murodovich",
+          "gender": 1,
+          "birthDate": "1988-05-15",
+          "passportSeries": "BK",
+          "passportNumber": "8899001",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 2,
+          "disabilityCategory": 1,
+          "disabilityOccurred": "2023-01-15",
+          "disabilityAssigned": "2023-02-15",
+          "disabilityValidityPeriod": "2025-02-15"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Ipak yo'li ko'chasi, 123-uy",
+          "phone": "998921234567"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi iqtisodiyot texnikumi",
+          "specialty": "Logistika menejeri",
+          "workplace": "Qarshi transport kompaniyasi",
+          "position": "Logistika bo'limi boshlig'i"
+        },
+        "registrationDate": "2023-01-20"
+      },
+      {
+        "id": 22,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Saidova",
+          "lastName": "Iroda",
+          "middleName": "Komilovna",
+          "gender": 0,
+          "birthDate": "1993-08-22",
+          "passportSeries": "BL",
+          "passportNumber": "9900112",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 0,
+          "disabilityCategory": 2,
+          "disabilityOccurred": "2023-02-20",
+          "disabilityAssigned": "2023-03-20",
+          "disabilityValidityPeriod": "2025-03-20"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Guliston ko'chasi, 45-uy",
+          "phone": "998922345678"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi farmatsevtika instituti",
+          "specialty": "Farmatsevt",
+          "workplace": "Qarshi markaziy dorixonasi",
+          "position": "Katta farmatsevt"
+        },
+        "registrationDate": "2023-02-25"
+      },
+      {
+        "id": 23,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Bahodirova",
+          "lastName": "Aziza",
+          "middleName": "Sherovna",
+          "gender": 0,
+          "birthDate": "1991-11-30",
+          "passportSeries": "BM",
+          "passportNumber": "0011223",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 1,
+          "disabilityCategory": 0,
+          "disabilityOccurred": "2023-03-10",
+          "disabilityAssigned": "2023-04-10",
+          "disabilityValidityPeriod": "2025-04-10"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Oqsaroy ko'chasi, 67-uy",
+          "phone": "998923456789"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi madaniyat kolleji",
+          "specialty": "Kutubxonachi",
+          "workplace": "Qarshi markaziy kutubxonasi",
+          "position": "Kutubxona mudiri"
+        },
+        "registrationDate": "2023-03-15"
+      },
+      {
+        "id": 24,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Rasulov",
+          "lastName": "Jahongir",
+          "middleName": "Asrorovich",
+          "gender": 1,
+          "birthDate": "1987-04-18",
+          "passportSeries": "BN",
+          "passportNumber": "1122334",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 2,
+          "disabilityCategory": 1,
+          "disabilityOccurred": "2023-04-15",
+          "disabilityAssigned": "2023-05-15",
+          "disabilityValidityPeriod": "2025-05-15"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Sanoat ko'chasi, 89-uy",
+          "phone": "998924567890"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi texnologiya instituti",
+          "specialty": "Oziq-ovqat texnologi",
+          "workplace": "Qarshi non kombinati",
+          "position": "Ishlab chiqarish boshlig'i"
+        },
+        "registrationDate": "2023-04-20"
+      },
+      {
+        "id": 25,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Tursunova",
+          "lastName": "Munisa",
+          "middleName": "Raximovna",
+          "gender": 0,
+          "birthDate": "1995-09-25",
+          "passportSeries": "BO",
+          "passportNumber": "2233445",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 0,
+          "disabilityCategory": 2,
+          "disabilityOccurred": "2023-05-20",
+          "disabilityAssigned": "2023-06-20",
+          "disabilityValidityPeriod": "2025-06-20"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Bog'lar ko'chasi, 34-uy",
+          "phone": "998925678901"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi dizayn kolleji",
+          "specialty": "Grafik dizayner",
+          "workplace": "Qarshi reklama agentligi",
+          "position": "Bosh dizayner"
+        },
+        "registrationDate": "2023-05-25"
+      },
+      {
+        "id": 26,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Ortiqov",
+          "lastName": "Nodir",
+          "middleName": "G'afurovich",
+          "gender": 1,
+          "birthDate": "1989-12-12",
+          "passportSeries": "BP",
+          "passportNumber": "3344556",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 1,
+          "disabilityCategory": 1,
+          "disabilityOccurred": "2023-06-25",
+          "disabilityAssigned": "2023-07-25",
+          "disabilityValidityPeriod": "2025-07-25"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Chilonzor ko'chasi, 56-uy",
+          "phone": "998926789012"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi yuridik instituti",
+          "specialty": "Yurist",
+          "workplace": "Qarshi advokatlik byurosi",
+          "position": "Advokat"
+        },
+        "registrationDate": "2023-06-30"
+      },
+      {
+        "id": 27,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Xoliqova",
+          "lastName": "Sabina",
+          "middleName": "Akmalovna",
+          "gender": 0,
+          "birthDate": "1992-03-08",
+          "passportSeries": "BQ",
+          "passportNumber": "4455667",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 2,
+          "disabilityCategory": 0,
+          "disabilityOccurred": "2023-07-30",
+          "disabilityAssigned": "2023-08-30",
+          "disabilityValidityPeriod": "2025-08-30"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Yangi hayot ko'chasi, 78-uy",
+          "phone": "998927890123"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi tibbiyot kolleji",
+          "specialty": "Laborant",
+          "workplace": "Qarshi diagnostika markazi",
+          "position": "Katta laborant"
+        },
+        "registrationDate": "2023-08-05"
+      },
+      {
+        "id": 28,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "G'afforov",
+          "lastName": "Umid",
+          "middleName": "Bahromovich",
+          "gender": 1,
+          "birthDate": "1986-06-20",
+          "passportSeries": "BR",
+          "passportNumber": "5566778",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 0,
+          "disabilityCategory": 2,
+          "disabilityOccurred": "2023-09-05",
+          "disabilityAssigned": "2023-10-05",
+          "disabilityValidityPeriod": "2025-10-05"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Bog'ishamol ko'chasi, 90-uy",
+          "phone": "998928901234"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi muhandislik-texnologiya instituti",
+          "specialty": "Energetik",
+          "workplace": "Qarshi issiqlik elektr stansiyasi",
+          "position": "Bosh energetik"
+        },
+        "registrationDate": "2023-09-10"
+      },
+      {
+        "id": 29,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Mirzayeva",
+          "lastName": "Dilnoza",
+          "middleName": "Davronovna",
+          "gender": 0,
+          "birthDate": "1994-01-15",
+          "passportSeries": "BS",
+          "passportNumber": "6677889",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 1,
+          "disabilityCategory": 1,
+          "disabilityOccurred": "2023-10-10",
+          "disabilityAssigned": "2023-11-10",
+          "disabilityValidityPeriod": "2025-11-10"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Ko'kcha ko'chasi, 12-uy",
+          "phone": "998929012345"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi axborot texnologiyalari kolleji",
+          "specialty": "Web dasturchi",
+          "workplace": "Qarshi IT markazi",
+          "position": "Frontend dasturchi"
+        },
+        "registrationDate": "2023-10-15"
+      },
+      {
+        "id": 30,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Rahmatov",
+          "lastName": "Ismoil",
+          "middleName": "Salimovich",
+          "gender": 1,
+          "birthDate": "1990-10-28",
+          "passportSeries": "BT",
+          "passportNumber": "7788990",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 2,
+          "disabilityCategory": 2,
+          "disabilityOccurred": "2023-11-15",
+          "disabilityAssigned": "2023-12-15",
+          "disabilityValidityPeriod": "2025-12-15"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Amir Temur ko'chasi, 145-uy",
+          "phone": "998930123456"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi moliya instituti",
+          "specialty": "Soliq maslahatchi",
+          "workplace": "Qarshi soliq inspeksiyasi",
+          "position": "Yetakchi mutaxassis"
+        },
+        "registrationDate": "2023-11-20"
+      },
+      {
+        "id": 31,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Qurbonov",
+          "lastName": "Mansur",
+          "middleName": "Tohirovich",
+          "gender": 1,
+          "birthDate": "1987-08-14",
+          "passportSeries": "BU",
+          "passportNumber": "8899001",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 0,
+          "disabilityCategory": 1,
+          "disabilityOccurred": "2023-01-20",
+          "disabilityAssigned": "2023-02-20",
+          "disabilityValidityPeriod": "2025-02-20"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Bog'bon ko'chasi, 56-uy",
+          "phone": "998931234567"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi kommunal xo'jalik kolleji",
+          "specialty": "Suv ta'minoti muhandisi",
+          "workplace": "Qarshi suv ta'minoti korxonasi",
+          "position": "Tarmoq muhandisi"
+        },
+        "registrationDate": "2023-01-25"
+      },
+      {
+        "id": 32,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Abdullayeva",
+          "lastName": "Mohira",
+          "middleName": "Azizovna",
+          "gender": 0,
+          "birthDate": "1993-05-22",
+          "passportSeries": "BV",
+          "passportNumber": "9900112",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 1,
+          "disabilityCategory": 2,
+          "disabilityOccurred": "2023-02-25",
+          "disabilityAssigned": "2023-03-25",
+          "disabilityValidityPeriod": "2025-03-25"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Yangi zamon ko'chasi, 78-uy",
+          "phone": "998932345678"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi davlat universiteti",
+          "specialty": "Kimyo o'qituvchisi",
+          "workplace": "Qarshi shahri, 15-maktab",
+          "position": "Kimyo fani o'qituvchisi"
+        },
+        "registrationDate": "2023-02-28"
+      },
+      {
+        "id": 33,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Hamroyev",
+          "lastName": "Firdavs",
+          "middleName": "Shuhratovich",
+          "gender": 1,
+          "birthDate": "1991-12-03",
+          "passportSeries": "BW",
+          "passportNumber": "0011223",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 2,
+          "disabilityCategory": 0,
+          "disabilityOccurred": "2023-03-30",
+          "disabilityAssigned": "2023-04-30",
+          "disabilityValidityPeriod": "2025-04-30"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Do'stlik ko'chasi, 34-uy",
+          "phone": "998933456789"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi hunarmandchilik kolleji",
+          "specialty": "Duradgor-usta",
+          "workplace": "Qarshi mebel fabrikasi",
+          "position": "Bosh usta"
+        },
+        "registrationDate": "2023-04-05"
+      },
+      {
+        "id": 34,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Normatova",
+          "lastName": "Gulnora",
+          "middleName": "Sobirovna",
+          "gender": 0,
+          "birthDate": "1989-03-18",
+          "passportSeries": "BX",
+          "passportNumber": "1122334",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 0,
+          "disabilityCategory": 1,
+          "disabilityOccurred": "2023-05-05",
+          "disabilityAssigned": "2023-06-05",
+          "disabilityValidityPeriod": "2025-06-05"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Sayilgoh ko'chasi, 90-uy",
+          "phone": "998934567890"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi san'at instituti",
+          "specialty": "Musiqa o'qituvchisi",
+          "workplace": "Qarshi bolalar san'at maktabi",
+          "position": "Musiqa o'qituvchisi"
+        },
+        "registrationDate": "2023-05-10"
+      },
+      {
+        "id": 35,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Sattarov",
+          "lastName": "Ravshan",
+          "middleName": "Olimovich",
+          "gender": 1,
+          "birthDate": "1994-09-27",
+          "passportSeries": "BY",
+          "passportNumber": "2233445",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 1,
+          "disabilityCategory": 2,
+          "disabilityOccurred": "2023-06-10",
+          "disabilityAssigned": "2023-07-10",
+          "disabilityValidityPeriod": "2025-07-10"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Istiqlol ko'chasi, 123-uy",
+          "phone": "998935678901"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi avtomobil ta'mirlash kolleji",
+          "specialty": "Avtomexanik",
+          "workplace": "Qarshi avtoservis markazi",
+          "position": "Bosh mexanik"
+        },
+        "registrationDate": "2023-06-15"
+      },
+      {
+        "id": 36,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Ganiyeva",
+          "lastName": "Zilola",
+          "middleName": "Anvarovna",
+          "gender": 0,
+          "birthDate": "1992-11-15",
+          "passportSeries": "BZ",
+          "passportNumber": "3344556",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 2,
+          "disabilityCategory": 0,
+          "disabilityOccurred": "2023-07-15",
+          "disabilityAssigned": "2023-08-15",
+          "disabilityValidityPeriod": "2025-08-15"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Yangi turmush ko'chasi, 45-uy",
+          "phone": "998936789012"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi pedagogika instituti",
+          "specialty": "Defektolog",
+          "workplace": "Qarshi maxsus maktab-internat",
+          "position": "Defektolog-o'qituvchi"
+        },
+        "registrationDate": "2023-07-20"
+      },
+      {
+        "id": 37,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Mansurtov",
+          "lastName": "Bobur",
+          "middleName": "Jamolovich",
+          "gender": 1,
+          "birthDate": "1988-02-28",
+          "passportSeries": "CA",
+          "passportNumber": "4455667",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 0,
+          "disabilityCategory": 1,
+          "disabilityOccurred": "2023-08-20",
+          "disabilityAssigned": "2023-09-20",
+          "disabilityValidityPeriod": "2025-09-20"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, O'zbekiston ko'chasi, 67-uy",
+          "phone": "998937890123"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi qurilish kolleji",
+          "specialty": "Elektrik",
+          "workplace": "Qarshi elektr tarmoqlari",
+          "position": "Katta elektrik"
+        },
+        "registrationDate": "2023-08-25"
+      },
+      {
+        "id": 38,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Axmedova",
+          "lastName": "Nazokat",
+          "middleName": "Furqatovna",
+          "gender": 0,
+          "birthDate": "1995-07-09",
+          "passportSeries": "CB",
+          "passportNumber": "5566778",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 1,
+          "disabilityCategory": 2,
+          "disabilityOccurred": "2023-09-25",
+          "disabilityAssigned": "2023-10-25",
+          "disabilityValidityPeriod": "2025-10-25"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Bobur ko'chasi, 89-uy",
+          "phone": "998938901234"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi chet tillari instituti",
+          "specialty": "Koreys tili o'qituvchisi",
+          "workplace": "Qarshi til o'rgatish markazi",
+          "position": "Koreys tili o'qituvchisi"
+        },
+        "registrationDate": "2023-09-30"
+      },
+      {
+        "id": 39,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Yusupov",
+          "lastName": "Ulug'bek",
+          "middleName": "Faxriddinovich",
+          "gender": 1,
+          "birthDate": "1990-04-12",
+          "passportSeries": "CC",
+          "passportNumber": "6677889",
+          "maritalStatus": 1,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 2,
+          "disabilityCategory": 0,
+          "disabilityOccurred": "2023-10-30",
+          "disabilityAssigned": "2023-11-30",
+          "disabilityValidityPeriod": "2025-11-30"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Beshkent ko'chasi, 101-uy",
+          "phone": "998939012345"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 1,
+          "educationPlace": "Qarshi veterinariya kolleji",
+          "specialty": "Veterinar",
+          "workplace": "Qarshi veterinariya klinikasi",
+          "position": "Bosh veterinar"
+        },
+        "registrationDate": "2023-10-05"
+      },
+      {
+        "id": 40,
+        "userId": "qvb123",
+        "personalInfo": {
+          "firstName": "Karimova",
+          "lastName": "Maftuna",
+          "middleName": "Akmalovna",
+          "gender": 0,
+          "birthDate": "1993-10-05",
+          "passportSeries": "CD",
+          "passportNumber": "7788990",
+          "maritalStatus": 0,
+          "nationality": 0
+        },
+        "disabilityInfo": {
+          "disabilityType": 0,
+          "disabilityCategory": 1,
+          "disabilityOccurred": "2023-11-05",
+          "disabilityAssigned": "2023-12-05",
+          "disabilityValidityPeriod": "2025-12-05"
+        },
+        "contactInfo": {
+          "address": "Qarshi shahri, Bunyodkor ko'chasi, 178-uy",
+          "phone": "998940123456"
+        },
+        "educationAndWorkInfo": {
+          "educationLevel": 0,
+          "educationPlace": "Qarshi ijtimoiy-iqtisodiy institut",
+          "specialty": "Mehnat huquqi mutaxassisi",
+          "workplace": "Qarshi bandlik markazi",
+          "position": "Yetakchi mutaxassis"
+        },
+        "registrationDate": "2023-11-10"
+      }
+    ]
+  }
+}
