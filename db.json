@@ -1392,5 +1392,33 @@
       },
       "registrationDate": "2023-11-10"
     }
-  ]
+  ],
+
+  "identified-blinds_analytics": {
+    "category": {
+      "first": 123,
+      "second": 59,
+      "third": 32,
+      "notDefined": 16
+    },
+    "ageRanges": {
+      "max16": 12,
+      "ran1630": 46,
+      "ran3050": 45,
+      "ran5060": 12,
+      "ran6075": 19,
+      "min75": 45
+    },
+    "nationality": {
+      "uzbeks": 256,
+      "others": 68
+    },
+    "education": {
+      "higher": 45,
+      "medium": 45,
+      "general": 49,
+      "primary": 13,
+      "notEducated": 14
+    }
+  }
 }
