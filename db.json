@@ -1396,29 +1396,29 @@
 
   "identified-blinds_analytics": {
     "category": {
-      "first": 123,
-      "second": 59,
-      "third": 32,
-      "notDefined": 16
+      "first": 13,
+      "second": 15,
+      "third": 69,
+      "notDefined": 12
     },
     "ageRanges": {
-      "max16": 12,
-      "ran1630": 46,
-      "ran3050": 45,
-      "ran5060": 12,
-      "ran6075": 19,
-      "min75": 45
+      "max16": 13,
+      "ran1630": 13,
+      "ran3050": 71,
+      "ran5060": 14,
+      "ran6075": 11,
+      "min75": 12
     },
     "nationality": {
-      "uzbeks": 256,
-      "others": 68
+      "uzbeks": 46,
+      "others": 59
     },
     "education": {
-      "higher": 45,
-      "medium": 45,
-      "general": 49,
-      "primary": 13,
-      "notEducated": 14
+      "higher": 59,
+      "medium": 23,
+      "general": 19,
+      "primary": 16,
+      "notEducated": 12
     }
   },
 
