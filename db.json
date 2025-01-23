@@ -1420,5 +1420,74 @@
       "primary": 13,
       "notEducated": 14
     }
+  },
+
+  "organization-plan": {
+    "implementation": "2025",
+    "organizational": {
+      "generalMeeting": {
+        "Q1": 1,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 1
+      },
+      "councilMeeting": {
+        "Q1": 1,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 1
+      },
+      "inspection": {
+        "Q1": 1,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 1
+      },
+      "membershipFee": {
+        "Q1": 1,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 1
+      }
+    },
+    "rehabilitation": {
+      "identificationBlind": {
+        "Q1": 1,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 1
+      },
+      "membership": {
+        "Q1": 1,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 1
+      },
+      "medicalService": {
+        "Q1": 1,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 1
+      },
+      "sanatoriumReferral": {
+        "Q1": 1,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 1
+      },
+      "employmentEnterprise": {
+        "Q1": 1,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 1
+      },
+      "employmentElsewhere": {
+        "Q1": 1,
+        "Q2": 0,
+        "Q3": 0,
+        "Q4": 1
+      },
+      "rehabilitationSupport": {}
+    }
   }
 }
