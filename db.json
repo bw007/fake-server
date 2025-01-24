@@ -1422,72 +1422,235 @@
     }
   },
 
-  "organization-plan": {
-    "implementation": "2025",
-    "organizational": {
-      "generalMeeting": {
-        "Q1": 1,
-        "Q2": 0,
-        "Q3": 0,
-        "Q4": 1
+  "organization-plan": [
+    {
+      "implementation": "2025",
+      "organizational": {
+        "generalMeeting": {
+          "Q1": 1,
+          "Q2": 0,
+          "Q3": 0,
+          "Q4": 1
+        },
+        "councilMeeting": {
+          "Q1": 1,
+          "Q2": 0,
+          "Q3": 0,
+          "Q4": 1
+        },
+        "inspection": {
+          "Q1": 1,
+          "Q2": 0,
+          "Q3": 0,
+          "Q4": 1
+        },
+        "membershipFee": {
+          "Q1": 200000,
+          "Q2": 200000,
+          "Q3": 200000,
+          "Q4": 200000
+        }
       },
-      "councilMeeting": {
-        "Q1": 1,
-        "Q2": 0,
-        "Q3": 0,
-        "Q4": 1
+      "rehabilitation": {
+        "identificationBlind": {
+          "Q1": 1,
+          "Q2": 0,
+          "Q3": 0,
+          "Q4": 1
+        },
+        "membership": {
+          "Q1": 1,
+          "Q2": 0,
+          "Q3": 0,
+          "Q4": 1
+        },
+        "medicalService": {
+          "Q1": 1,
+          "Q2": 0,
+          "Q3": 0,
+          "Q4": 1
+        },
+        "sanatoriumReferral": {
+          "Q1": 1,
+          "Q2": 0,
+          "Q3": 0,
+          "Q4": 1
+        },
+        "employmentEnterprise": {
+          "Q1": 1,
+          "Q2": 0,
+          "Q3": 0,
+          "Q4": 1
+        },
+        "employmentElsewhere": {
+          "Q1": 1,
+          "Q2": 0,
+          "Q3": 0,
+          "Q4": 1
+        },
+        "rehabilitationSupport": {
+          "whitecane": {
+            "Q1": 4,
+            "Q2": 4,
+            "Q3": 4,
+            "Q4": 4
+          },
+          "glasses": {
+            "Q1": 4,
+            "Q2": 4,
+            "Q3": 4,
+            "Q4": 4
+          },
+          "writingEquipment": {
+            "Q1": 4,
+            "Q2": 4,
+            "Q3": 4,
+            "Q4": 4
+          },
+          "writingPaper": {
+            "Q1": 4,
+            "Q2": 4,
+            "Q3": 4,
+            "Q4": 4
+          },
+          "householdGoods": {
+            "Q1": 4,
+            "Q2": 4,
+            "Q3": 4,
+            "Q4": 4
+          },
+          "medicalEquipment": {
+            "Q1": 4,
+            "Q2": 4,
+            "Q3": 4,
+            "Q4": 4
+          },
+          "wheelchairs": {
+            "Q1": 4,
+            "Q2": 4,
+            "Q3": 4,
+            "Q4": 4
+          }
+        },
+        "teachingBraille": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "teachingIT": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "specialSchool": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "vocationalTraining": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "higherEducation": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        }
       },
-      "inspection": {
-        "Q1": 1,
-        "Q2": 0,
-        "Q3": 0,
-        "Q4": 1
+      "cultural": {
+        "thematicEvent": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "literaryEvent": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "differentMeeting": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "roundtableDiscussion": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "amateurConcert": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "otherConcert": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "trips": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "reviewSelection": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "holidayEvent": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "sportEvent": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        }
       },
-      "membershipFee": {
-        "Q1": 1,
-        "Q2": 0,
-        "Q3": 0,
-        "Q4": 1
+      "socialAssistance": {
+        "monetaryDonation": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "otherDonation": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "awareness": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        },
+        "legalAid": {
+          "Q1": 1,
+          "Q2": 2,
+          "Q3": 3,
+          "Q4": 4
+        }
       }
-    },
-    "rehabilitation": {
-      "identificationBlind": {
-        "Q1": 1,
-        "Q2": 0,
-        "Q3": 0,
-        "Q4": 1
-      },
-      "membership": {
-        "Q1": 1,
-        "Q2": 0,
-        "Q3": 0,
-        "Q4": 1
-      },
-      "medicalService": {
-        "Q1": 1,
-        "Q2": 0,
-        "Q3": 0,
-        "Q4": 1
-      },
-      "sanatoriumReferral": {
-        "Q1": 1,
-        "Q2": 0,
-        "Q3": 0,
-        "Q4": 1
-      },
-      "employmentEnterprise": {
-        "Q1": 1,
-        "Q2": 0,
-        "Q3": 0,
-        "Q4": 1
-      },
-      "employmentElsewhere": {
-        "Q1": 1,
-        "Q2": 0,
-        "Q3": 0,
-        "Q4": 1
-      },
-      "rehabilitationSupport": {}
     }
-  }
+  ]
 }
