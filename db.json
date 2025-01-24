@@ -1424,7 +1424,6 @@
 
   "organization-plan": [
     {
-      "id": "2025",
       "implementation": "2025",
       "userId": "qvb123",
       "organizational": {
@@ -1655,7 +1654,6 @@
       }
     },
     {
-      "id": "2024",
       "implementation": "2024",
       "userId": "qvb123",
       "organizational": {
