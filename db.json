@@ -1710,5 +1710,259 @@
         "legalAid": { "Q1": 1, "Q2": 2, "Q3": 3, "Q4": 4 }
       }
     }
+  ],
+
+  "membershipFee": [
+    {
+      "_id": "65a223456789abcdef123461",
+      "year": 2024,
+      "totalCollected": 8800000,
+      "totalSpent": 3600000,
+      "balance": 5200000,
+      "quarters": [
+        {
+          "quarter": 1,
+          "previousBalance": 2800000,
+          "totalCollected": 2000000,
+          "totalSpent": 900000,
+          "balance": 3900000,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123501",
+              "name": "Jasur",
+              "amount": 1000000
+            },
+            {
+              "_id": "65a223456789abcdef123502",
+              "name": "Diyor",
+              "amount": 1000000
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123511",
+              "reason": "Ijara",
+              "amount": 500000
+            },
+            {
+              "_id": "65a223456789abcdef123512",
+              "reason": "Xodimlar haqi",
+              "amount": 400000
+            }
+          ]
+        },
+        {
+          "quarter": 2,
+          "previousBalance": 3900000,
+          "totalCollected": 2200000,
+          "totalSpent": 1000000,
+          "balance": 5100000,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123503",
+              "name": "Aziza",
+              "amount": 1200000
+            },
+            {
+              "_id": "65a223456789abcdef123504",
+              "name": "Bekzod",
+              "amount": 1000000
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123513",
+              "reason": "Ta'mirlash",
+              "amount": 600000
+            },
+            {
+              "_id": "65a223456789abcdef123514",
+              "reason": "Chop etish",
+              "amount": 400000
+            }
+          ]
+        },
+        {
+          "quarter": 3,
+          "previousBalance": 5100000,
+          "totalCollected": 2400000,
+          "totalSpent": 1100000,
+          "balance": 6400000,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123505",
+              "name": "Kamola",
+              "amount": 1300000
+            },
+            {
+              "_id": "65a223456789abcdef123506",
+              "name": "Shavkat",
+              "amount": 1100000
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123515",
+              "reason": "Transport",
+              "amount": 700000
+            },
+            {
+              "_id": "65a223456789abcdef123516",
+              "reason": "Elektr to'lovi",
+              "amount": 400000
+            }
+          ]
+        },
+        {
+          "quarter": 4,
+          "previousBalance": 6400000,
+          "totalCollected": 2200000,
+          "totalSpent": 600000,
+          "balance": 8000000,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123507",
+              "name": "Malika",
+              "amount": 1100000
+            },
+            {
+              "_id": "65a223456789abcdef123508",
+              "name": "Rustam",
+              "amount": 1100000
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123517",
+              "reason": "Marketing",
+              "amount": 600000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "65a223456789abcdef123462",
+      "year": 2025,
+      "totalCollected": 9000000,
+      "totalSpent": 3800000,
+      "balance": 5200000,
+      "quarters": [
+        {
+          "quarter": 1,
+          "previousBalance": 8000000,
+          "totalCollected": 2200000,
+          "totalSpent": 1200000,
+          "balance": 9000000,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123601",
+              "name": "Ali",
+              "amount": 1200000
+            },
+            {
+              "_id": "65a223456789abcdef123602",
+              "name": "Lola",
+              "amount": 1000000
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123611",
+              "reason": "Kompyuter ta'mirlash",
+              "amount": 700000
+            },
+            {
+              "_id": "65a223456789abcdef123612",
+              "reason": "Ijara",
+              "amount": 500000
+            }
+          ]
+        },
+        {
+          "quarter": 2,
+          "previousBalance": 9000000,
+          "totalCollected": 2400000,
+          "totalSpent": 1000000,
+          "balance": 10400000,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123603",
+              "name": "Bobur",
+              "amount": 1200000
+            },
+            {
+              "_id": "65a223456789abcdef123604",
+              "name": "Gulnoza",
+              "amount": 1200000
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123613",
+              "reason": "Elektr to'lovi",
+              "amount": 400000
+            },
+            {
+              "_id": "65a223456789abcdef123614",
+              "reason": "Chop etish",
+              "amount": 600000
+            }
+          ]
+        },
+        {
+          "quarter": 3,
+          "previousBalance": 10400000,
+          "totalCollected": 2200000,
+          "totalSpent": 800000,
+          "balance": 11800000,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123605",
+              "name": "Sanjar",
+              "amount": 1100000
+            },
+            {
+              "_id": "65a223456789abcdef123606",
+              "name": "Madina",
+              "amount": 1100000
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123615",
+              "reason": "Transport",
+              "amount": 800000
+            }
+          ]
+        },
+        {
+          "quarter": 4,
+          "previousBalance": 11800000,
+          "totalCollected": 2200000,
+          "totalSpent": 800000,
+          "balance": 13200000,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123607",
+              "name": "Xurshid",
+              "amount": 1200000
+            },
+            {
+              "_id": "65a223456789abcdef123608",
+              "name": "Olim",
+              "amount": 1000000
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123617",
+              "reason": "Marketing",
+              "amount": 800000
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
