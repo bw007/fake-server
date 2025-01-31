@@ -1715,6 +1715,7 @@
   "membershipFee": [
     {
       "_id": "65a223456789abcdef123456",
+      "userId": "qvb123",
       "year": 2024,
       "totalCollected": 6000000,
       "totalSpent": 3000000,
@@ -1852,6 +1853,7 @@
     },
     {
       "_id": "65a223456789abcdef123473",
+      "userId": "qvb123",
       "year": 2025,
       "totalCollected": 7000000,
       "totalSpent": 3500000,
