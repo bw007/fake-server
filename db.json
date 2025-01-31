@@ -1996,6 +1996,290 @@
           ]
         }
       ]
+    },
+    {
+      "_id": "65a223456789abcdef123473",
+      "userId": "qvb123",
+      "year": 2024,
+      "totalCollected": 7000000,
+      "totalSpent": 3500000,
+      "balance": 3500000,
+      "quarters": [
+        {
+          "quarter": 1,
+          "totalCollected": 1800000,
+          "totalSpent": 800000,
+          "balance": 1000000,
+          "status": 0,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123474",
+              "name": "Shahzod",
+              "amount": 900000,
+              "date": "2025-02-14"
+            },
+            {
+              "_id": "65a223456789abcdef123475",
+              "name": "Baxtiyor",
+              "amount": 900000,
+              "date": "2025-03-29"
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123476",
+              "reason": "Ijara",
+              "amount": 500000
+            },
+            {
+              "_id": "65a223456789abcdef123477",
+              "reason": "Xodimlar haqi",
+              "amount": 300000
+            }
+          ]
+        },
+        {
+          "quarter": 2,
+          "totalCollected": 1700000,
+          "totalSpent": 900000,
+          "balance": 800000,
+          "status": 0,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123478",
+              "name": "Sardor",
+              "amount": 850000,
+              "date": "2025-05-17"
+            },
+            {
+              "_id": "65a223456789abcdef123479",
+              "name": "Bobur",
+              "amount": 850000,
+              "date": "2025-06-22"
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123480",
+              "reason": "Elektr energiyasi",
+              "amount": 600000
+            },
+            {
+              "_id": "65a223456789abcdef123481",
+              "reason": "Materiallar",
+              "amount": 300000
+            }
+          ]
+        },
+        {
+          "quarter": 3,
+          "totalCollected": 1800000,
+          "totalSpent": 700000,
+          "balance": 1100000,
+          "status": 0,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123482",
+              "name": "Dilshod",
+              "amount": 900000,
+              "date": "2025-07-15"
+            },
+            {
+              "_id": "65a223456789abcdef123483",
+              "name": "Sherzod",
+              "amount": 900000,
+              "date": "2025-08-30"
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123484",
+              "reason": "Xodimlar haqi",
+              "amount": 400000
+            },
+            {
+              "_id": "65a223456789abcdef123485",
+              "reason": "Ijara",
+              "amount": 300000
+            }
+          ]
+        },
+        {
+          "quarter": 4,
+          "totalCollected": 1700000,
+          "totalSpent": 1100000,
+          "balance": 600000,
+          "status": 0,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123486",
+              "name": "Umar",
+              "amount": 850000,
+              "date": "2025-10-10"
+            },
+            {
+              "_id": "65a223456789abcdef123487",
+              "name": "Komil",
+              "amount": 850000,
+              "date": "2025-12-19"
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123488",
+              "reason": "Materiallar",
+              "amount": 600000
+            },
+            {
+              "_id": "65a223456789abcdef123489",
+              "reason": "Elektr energiyasi",
+              "amount": 500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "65a223456789abcdef123473",
+      "userId": "qvb123",
+      "year": 2024,
+      "totalCollected": 7000000,
+      "totalSpent": 3500000,
+      "balance": 3500000,
+      "quarters": [
+        {
+          "quarter": 1,
+          "totalCollected": 1800000,
+          "totalSpent": 800000,
+          "balance": 1000000,
+          "status": 0,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123474",
+              "name": "Shahzod",
+              "amount": 900000,
+              "date": "2025-02-14"
+            },
+            {
+              "_id": "65a223456789abcdef123475",
+              "name": "Baxtiyor",
+              "amount": 900000,
+              "date": "2025-03-29"
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123476",
+              "reason": "Ijara",
+              "amount": 500000
+            },
+            {
+              "_id": "65a223456789abcdef123477",
+              "reason": "Xodimlar haqi",
+              "amount": 300000
+            }
+          ]
+        },
+        {
+          "quarter": 2,
+          "totalCollected": 1700000,
+          "totalSpent": 900000,
+          "balance": 800000,
+          "status": 0,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123478",
+              "name": "Sardor",
+              "amount": 850000,
+              "date": "2025-05-17"
+            },
+            {
+              "_id": "65a223456789abcdef123479",
+              "name": "Bobur",
+              "amount": 850000,
+              "date": "2025-06-22"
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123480",
+              "reason": "Elektr energiyasi",
+              "amount": 600000
+            },
+            {
+              "_id": "65a223456789abcdef123481",
+              "reason": "Materiallar",
+              "amount": 300000
+            }
+          ]
+        },
+        {
+          "quarter": 3,
+          "totalCollected": 1800000,
+          "totalSpent": 700000,
+          "balance": 1100000,
+          "status": 0,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123482",
+              "name": "Dilshod",
+              "amount": 900000,
+              "date": "2025-07-15"
+            },
+            {
+              "_id": "65a223456789abcdef123483",
+              "name": "Sherzod",
+              "amount": 900000,
+              "date": "2025-08-30"
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123484",
+              "reason": "Xodimlar haqi",
+              "amount": 400000
+            },
+            {
+              "_id": "65a223456789abcdef123485",
+              "reason": "Ijara",
+              "amount": 300000
+            }
+          ]
+        },
+        {
+          "quarter": 4,
+          "totalCollected": 1700000,
+          "totalSpent": 1100000,
+          "balance": 600000,
+          "status": 0,
+          "members": [
+            {
+              "_id": "65a223456789abcdef123486",
+              "name": "Umar",
+              "amount": 850000,
+              "date": "2025-10-10"
+            },
+            {
+              "_id": "65a223456789abcdef123487",
+              "name": "Komil",
+              "amount": 850000,
+              "date": "2025-12-19"
+            }
+          ],
+          "expenses": [
+            {
+              "_id": "65a223456789abcdef123488",
+              "reason": "Materiallar",
+              "amount": 600000
+            },
+            {
+              "_id": "65a223456789abcdef123489",
+              "reason": "Elektr energiyasi",
+              "amount": 500000
+            }
+          ]
+        }
+      ]
     }
   ]
 }
