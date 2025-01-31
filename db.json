@@ -1726,6 +1726,7 @@
           "totalCollected": 1500000,
           "totalSpent": 700000,
           "balance": 800000,
+          "status": 1,
           "members": [
             {
               "_id": "65a223456789abcdef123457",
@@ -1758,6 +1759,7 @@
           "totalCollected": 1600000,
           "totalSpent": 750000,
           "balance": 850000,
+          "status": 0,
           "members": [
             {
               "_id": "65a223456789abcdef123461",
@@ -1790,6 +1792,7 @@
           "totalCollected": 1400000,
           "totalSpent": 600000,
           "balance": 800000,
+          "status": 0,
           "members": [
             {
               "_id": "65a223456789abcdef123465",
@@ -1822,6 +1825,7 @@
           "totalCollected": 1500000,
           "totalSpent": 950000,
           "balance": 550000,
+          "status": 0,
           "members": [
             {
               "_id": "65a223456789abcdef123469",
@@ -1864,6 +1868,7 @@
           "totalCollected": 1800000,
           "totalSpent": 800000,
           "balance": 1000000,
+          "status": 0,
           "members": [
             {
               "_id": "65a223456789abcdef123474",
@@ -1896,6 +1901,7 @@
           "totalCollected": 1700000,
           "totalSpent": 900000,
           "balance": 800000,
+          "status": 0,
           "members": [
             {
               "_id": "65a223456789abcdef123478",
@@ -1928,6 +1934,7 @@
           "totalCollected": 1800000,
           "totalSpent": 700000,
           "balance": 1100000,
+          "status": 0,
           "members": [
             {
               "_id": "65a223456789abcdef123482",
@@ -1960,6 +1967,7 @@
           "totalCollected": 1700000,
           "totalSpent": 1100000,
           "balance": 600000,
+          "status": 0,
           "members": [
             {
               "_id": "65a223456789abcdef123486",
