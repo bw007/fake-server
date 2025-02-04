@@ -1719,6 +1719,7 @@
       "year": 2025,
       "quarters": [
         {
+          "id": "2025q1",
           "quarter": 1,
           "totalCollected": 1500000,
           "totalCollectedTotal": 1500000,
@@ -1753,6 +1754,7 @@
           ]
         },
         {
+          "id": "2025q2",
           "quarter": 2,
           "totalCollected": 1600000,
           "totalCollectedTotal": 2400000,
@@ -1787,6 +1789,7 @@
           ]
         },
         {
+          "id": "2025q3",
           "quarter": 3,
           "totalCollected": 1400000,
           "totalCollectedTotal": 3800000,
@@ -1821,6 +1824,7 @@
           ]
         },
         {
+          "id": "2025q4",
           "quarter": 4,
           "totalCollected": 1500000,
           "totalCollectedTotal": 5300000,
@@ -1862,6 +1866,7 @@
       "year": 2024,
       "quarters": [
         {
+          "id": "2024q1",
           "quarter": 1,
           "totalCollected": 1400000,
           "totalCollectedTotal": 1400000,
@@ -1896,6 +1901,7 @@
           ]
         },
         {
+          "id": "2024q2",
           "quarter": 2,
           "totalCollected": 1600000,
           "totalCollectedTotal": 3000000,
@@ -1930,6 +1936,7 @@
           ]
         },
         {
+          "id": "2024q3",
           "quarter": 3,
           "totalCollected": 1500000,
           "totalCollectedTotal": 4500000,
@@ -1964,6 +1971,7 @@
           ]
         },
         {
+          "id": "2024q4",
           "quarter": 4,
           "totalCollected": 1700000,
           "totalCollectedTotal": 6200000,
@@ -2005,6 +2013,7 @@
       "year": 2023,
       "quarters": [
         {
+          "id": "2023q1",
           "quarter": 1,
           "totalCollected": 1300000,
           "totalCollectedTotal": 1300000,
@@ -2039,6 +2048,7 @@
           ]
         },
         {
+          "id": "2023q2",
           "quarter": 2,
           "totalCollected": 1500000,
           "totalCollectedTotal": 2800000,
@@ -2073,6 +2083,7 @@
           ]
         },
         {
+          "id": "2023q3",
           "quarter": 3,
           "totalCollected": 1600000,
           "totalCollectedTotal": 4400000,
@@ -2107,6 +2118,7 @@
           ]
         },
         {
+          "id": "2023q4",
           "quarter": 4,
           "totalCollected": 1700000,
           "totalCollectedTotal": 6100000,
