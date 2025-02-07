@@ -1753,11 +1753,11 @@
             }
           ],
           "expenseSummary": {
-            "Ijara": 600000,
-            "Xodimlar haqi": 700000,
-            "Elektr energiyasi": 950000,
-            "Materiallar": 750000,
-            "Boshqa xarajatlar": 0
+            "financial_aid": 600000,
+            "materilar_aid": 700000,
+            "household_check": 950000,
+            "events": 750000,
+            "office_expenses": 0
           }
         },
         {
@@ -1795,11 +1795,11 @@
             }
           ],
           "expenseSummary": {
-            "Ijara": 600000,
-            "Xodimlar haqi": 700000,
-            "Elektr energiyasi": 950000,
-            "Materiallar": 750000,
-            "Boshqa xarajatlar": 0
+            "financial_aid": 600000,
+            "materilar_aid": 700000,
+            "household_check": 950000,
+            "events": 750000,
+            "office_expenses": 0
           }
         },
         {
@@ -1837,11 +1837,11 @@
             }
           ],
           "expenseSummary": {
-            "Ijara": 600000,
-            "Xodimlar haqi": 700000,
-            "Elektr energiyasi": 950000,
-            "Materiallar": 750000,
-            "Boshqa xarajatlar": 0
+            "financial_aid": 600000,
+            "materilar_aid": 700000,
+            "household_check": 950000,
+            "events": 750000,
+            "office_expenses": 0
           }
         },
         {
@@ -1879,11 +1879,11 @@
             }
           ],
           "expenseSummary": {
-            "Ijara": 600000,
-            "Xodimlar haqi": 700000,
-            "Elektr energiyasi": 950000,
-            "Materiallar": 750000,
-            "Boshqa xarajatlar": 0
+            "financial_aid": 600000,
+            "materilar_aid": 700000,
+            "household_check": 950000,
+            "events": 750000,
+            "office_expenses": 0
           }
         }
       ]
@@ -1928,11 +1928,11 @@
             }
           ],
           "expenseSummary": {
-            "Ijara": 600000,
-            "Xodimlar haqi": 700000,
-            "Elektr energiyasi": 950000,
-            "Materiallar": 750000,
-            "Boshqa xarajatlar": 0
+            "financial_aid": 600000,
+            "materilar_aid": 700000,
+            "household_check": 950000,
+            "events": 750000,
+            "office_expenses": 0
           }
         },
         {
@@ -1970,11 +1970,11 @@
             }
           ],
           "expenseSummary": {
-            "Ijara": 600000,
-            "Xodimlar haqi": 700000,
-            "Elektr energiyasi": 950000,
-            "Materiallar": 750000,
-            "Boshqa xarajatlar": 0
+            "financial_aid": 600000,
+            "materilar_aid": 700000,
+            "household_check": 950000,
+            "events": 750000,
+            "office_expenses": 0
           }
         },
         {
@@ -2012,11 +2012,11 @@
             }
           ],
           "expenseSummary": {
-            "Ijara": 600000,
-            "Xodimlar haqi": 700000,
-            "Elektr energiyasi": 950000,
-            "Materiallar": 750000,
-            "Boshqa xarajatlar": 0
+            "financial_aid": 600000,
+            "materilar_aid": 700000,
+            "household_check": 950000,
+            "events": 750000,
+            "office_expenses": 0
           }
         },
         {
@@ -2054,11 +2054,11 @@
             }
           ],
           "expenseSummary": {
-            "Ijara": 600000,
-            "Xodimlar haqi": 700000,
-            "Elektr energiyasi": 950000,
-            "Materiallar": 750000,
-            "Boshqa xarajatlar": 0
+            "financial_aid": 600000,
+            "materilar_aid": 700000,
+            "household_check": 950000,
+            "events": 750000,
+            "office_expenses": 0
           }
         }
       ]
@@ -2103,11 +2103,11 @@
             }
           ],
           "expenseSummary": {
-            "Ijara": 600000,
-            "Xodimlar haqi": 700000,
-            "Elektr energiyasi": 950000,
-            "Materiallar": 750000,
-            "Boshqa xarajatlar": 0
+            "financial_aid": 600000,
+            "materilar_aid": 700000,
+            "household_check": 950000,
+            "events": 750000,
+            "office_expenses": 0
           }
         },
         {
@@ -2145,11 +2145,11 @@
             }
           ],
           "expenseSummary": {
-            "Ijara": 600000,
-            "Xodimlar haqi": 700000,
-            "Elektr energiyasi": 950000,
-            "Materiallar": 750000,
-            "Boshqa xarajatlar": 0
+            "financial_aid": 600000,
+            "materilar_aid": 700000,
+            "household_check": 950000,
+            "events": 750000,
+            "office_expenses": 0
           }
         },
         {
@@ -2187,11 +2187,11 @@
             }
           ],
           "expenseSummary": {
-            "Ijara": 600000,
-            "Xodimlar haqi": 700000,
-            "Elektr energiyasi": 950000,
-            "Materiallar": 750000,
-            "Boshqa xarajatlar": 0
+            "financial_aid": 600000,
+            "materilar_aid": 700000,
+            "household_check": 950000,
+            "events": 750000,
+            "office_expenses": 0
           }
         },
         {
@@ -2229,11 +2229,11 @@
             }
           ],
           "expenseSummary": {
-            "Ijara": 600000,
-            "Xodimlar haqi": 700000,
-            "Elektr energiyasi": 950000,
-            "Materiallar": 750000,
-            "Boshqa xarajatlar": 0
+            "financial_aid": 600000,
+            "materilar_aid": 700000,
+            "household_check": 950000,
+            "events": 750000,
+            "office_expenses": 0
           }
         }
       ]
