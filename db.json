@@ -1751,7 +1751,14 @@
               "reason": "Xodimlar haqi",
               "amount": 300000
             }
-          ]
+          ],
+          "expenseSummary": {
+            "Ijara": 600000,
+            "Xodimlar haqi": 700000,
+            "Elektr energiyasi": 950000,
+            "Materiallar": 750000,
+            "Boshqa xarajatlar": 0
+          }
         },
         {
           "id": "2025q2",
@@ -1786,7 +1793,14 @@
               "reason": "Materiallar",
               "amount": 250000
             }
-          ]
+          ],
+          "expenseSummary": {
+            "Ijara": 600000,
+            "Xodimlar haqi": 700000,
+            "Elektr energiyasi": 950000,
+            "Materiallar": 750000,
+            "Boshqa xarajatlar": 0
+          }
         },
         {
           "id": "2025q3",
@@ -1821,7 +1835,14 @@
               "reason": "Ijara",
               "amount": 200000
             }
-          ]
+          ],
+          "expenseSummary": {
+            "Ijara": 600000,
+            "Xodimlar haqi": 700000,
+            "Elektr energiyasi": 950000,
+            "Materiallar": 750000,
+            "Boshqa xarajatlar": 0
+          }
         },
         {
           "id": "2025q4",
@@ -1856,7 +1877,14 @@
               "reason": "Elektr energiyasi",
               "amount": 450000
             }
-          ]
+          ],
+          "expenseSummary": {
+            "Ijara": 600000,
+            "Xodimlar haqi": 700000,
+            "Elektr energiyasi": 950000,
+            "Materiallar": 750000,
+            "Boshqa xarajatlar": 0
+          }
         }
       ]
     },
@@ -1898,7 +1926,14 @@
               "reason": "Xodimlar haqi",
               "amount": 300000
             }
-          ]
+          ],
+          "expenseSummary": {
+            "Ijara": 600000,
+            "Xodimlar haqi": 700000,
+            "Elektr energiyasi": 950000,
+            "Materiallar": 750000,
+            "Boshqa xarajatlar": 0
+          }
         },
         {
           "id": "2024q2",
@@ -1933,7 +1968,14 @@
               "reason": "Materiallar",
               "amount": 250000
             }
-          ]
+          ],
+          "expenseSummary": {
+            "Ijara": 600000,
+            "Xodimlar haqi": 700000,
+            "Elektr energiyasi": 950000,
+            "Materiallar": 750000,
+            "Boshqa xarajatlar": 0
+          }
         },
         {
           "id": "2024q3",
@@ -1968,7 +2010,14 @@
               "reason": "Ijara",
               "amount": 200000
             }
-          ]
+          ],
+          "expenseSummary": {
+            "Ijara": 600000,
+            "Xodimlar haqi": 700000,
+            "Elektr energiyasi": 950000,
+            "Materiallar": 750000,
+            "Boshqa xarajatlar": 0
+          }
         },
         {
           "id": "2024q4",
@@ -2003,7 +2052,14 @@
               "reason": "Elektr energiyasi",
               "amount": 450000
             }
-          ]
+          ],
+          "expenseSummary": {
+            "Ijara": 600000,
+            "Xodimlar haqi": 700000,
+            "Elektr energiyasi": 950000,
+            "Materiallar": 750000,
+            "Boshqa xarajatlar": 0
+          }
         }
       ]
     },
@@ -2045,7 +2101,14 @@
               "reason": "Xodimlar haqi",
               "amount": 300000
             }
-          ]
+          ],
+          "expenseSummary": {
+            "Ijara": 600000,
+            "Xodimlar haqi": 700000,
+            "Elektr energiyasi": 950000,
+            "Materiallar": 750000,
+            "Boshqa xarajatlar": 0
+          }
         },
         {
           "id": "2023q2",
@@ -2080,7 +2143,14 @@
               "reason": "Materiallar",
               "amount": 250000
             }
-          ]
+          ],
+          "expenseSummary": {
+            "Ijara": 600000,
+            "Xodimlar haqi": 700000,
+            "Elektr energiyasi": 950000,
+            "Materiallar": 750000,
+            "Boshqa xarajatlar": 0
+          }
         },
         {
           "id": "2023q3",
@@ -2115,7 +2185,14 @@
               "reason": "Ijara",
               "amount": 200000
             }
-          ]
+          ],
+          "expenseSummary": {
+            "Ijara": 600000,
+            "Xodimlar haqi": 700000,
+            "Elektr energiyasi": 950000,
+            "Materiallar": 750000,
+            "Boshqa xarajatlar": 0
+          }
         },
         {
           "id": "2023q4",
@@ -2150,7 +2227,14 @@
               "reason": "Elektr energiyasi",
               "amount": 450000
             }
-          ]
+          ],
+          "expenseSummary": {
+            "Ijara": 600000,
+            "Xodimlar haqi": 700000,
+            "Elektr energiyasi": 950000,
+            "Materiallar": 750000,
+            "Boshqa xarajatlar": 0
+          }
         }
       ]
     }
