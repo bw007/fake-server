@@ -2238,5 +2238,83 @@
         }
       ]
     }
+  ],
+
+  "finance": [
+    {
+      "id": "transactionId123",
+      "userId": "qvb123",
+      "year": 2025,
+      "quarters": [
+        {
+          "id": "quarter1Id",
+          "quarter": 1,
+          "totalCollected": 500000,
+          "totalSpent": 200000,
+          "balance": 300000,
+          "status": 1,
+          "incomeSources": {
+            "corporateContributions": {
+              "totalCollected": 150000,
+              "totalSpent": 50000,
+              "balance": 100000,
+              "transactions": [
+                {
+                  "id": "txn1",
+                  "name": "OOO Xizmat LTD",
+                  "amount": 100000,
+                  "date": "2024-01-10"
+                },
+                {
+                  "id": "txn2",
+                  "name": "MCHJ TexnoInvest",
+                  "amount": 50000,
+                  "date": "2024-02-05"
+                }
+              ]
+            },
+            "governmentBudget": {
+              "totalCollected": 200000,
+              "totalSpent": 100000,
+              "balance": 100000,
+              "transactions": [
+                {
+                  "id": "txn3",
+                  "name": "O‘zbekiston Respublikasi Moliya Vazirligi",
+                  "amount": 200000,
+                  "date": "2024-01-20"
+                }
+              ]
+            },
+            "grantFunds": {
+              "totalCollected": 100000,
+              "totalSpent": 30000,
+              "balance": 70000,
+              "transactions": [
+                {
+                  "id": "txn4",
+                  "name": "Xalqaro Xayriya Jamg‘armasi",
+                  "amount": 100000,
+                  "date": "2024-02-15"
+                }
+              ]
+            },
+            "regionalDepartment": {
+              "totalCollected": 50000,
+              "totalSpent": 20000,
+              "balance": 30000,
+              "transactions": [
+                {
+                  "id": "txn5",
+                  "name": "O‘ZKOJ Qashqadaryo viloyat bo‘limi",
+                  "amount": 50000,
+                  "date": "2024-03-01"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
   ]
 }
