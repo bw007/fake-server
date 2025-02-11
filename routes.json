@@ -3,6 +3,7 @@
   "identified-blinds": 660,
   "identified-blinds_analytics": 600,
   "organization-plan": 600,
-  "membershipFee": 600,
-  "finance": 600
+  "membership-fee": 600,
+  "financial-means": 600,
+  "sponsorship-funds": 600
 }

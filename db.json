@@ -1712,7 +1712,7 @@
     }
   ],
 
-  "membershipFee": [
+  "membership-fee": [
     {
       "id": "da4d54a",
       "userId": "qvb123",
@@ -2240,7 +2240,7 @@
     }
   ],
 
-  "finance": [
+  "financial-means": [
     {
       "id": "transactionId123",
       "userId": "qvb123",
@@ -2313,8 +2313,1155 @@
               ]
             }
           }
+        },
+        {
+          "id": "quarter2Id",
+          "quarter": 2,
+          "totalCollected": 600000,
+          "totalSpent": 250000,
+          "balance": 350000,
+          "status": 1,
+          "incomeSources": {
+            "corporateContributions": {
+              "totalCollected": 200000,
+              "totalSpent": 80000,
+              "balance": 120000,
+              "transactions": [
+                {
+                  "id": "txn6",
+                  "name": "OOO Xizmat LTD",
+                  "amount": 120000,
+                  "date": "2024-04-10"
+                },
+                {
+                  "id": "txn7",
+                  "name": "MCHJ TexnoInvest",
+                  "amount": 80000,
+                  "date": "2024-05-05"
+                }
+              ]
+            },
+            "governmentBudget": {
+              "totalCollected": 250000,
+              "totalSpent": 100000,
+              "balance": 150000,
+              "transactions": [
+                {
+                  "id": "txn8",
+                  "name": "O‘zbekiston Respublikasi Moliya Vazirligi",
+                  "amount": 250000,
+                  "date": "2024-04-20"
+                }
+              ]
+            },
+            "grantFunds": {
+              "totalCollected": 100000,
+              "totalSpent": 50000,
+              "balance": 50000,
+              "transactions": [
+                {
+                  "id": "txn9",
+                  "name": "Xalqaro Xayriya Jamg'armasi",
+                  "amount": 100000,
+                  "date": "2024-05-15"
+                }
+              ]
+            },
+            "regionalDepartment": {
+              "totalCollected": 50000,
+              "totalSpent": 20000,
+              "balance": 30000,
+              "transactions": [
+                {
+                  "id": "txn10",
+                  "name": "O‘ZKOJ Qashqadaryo viloyat bo‘limi",
+                  "amount": 50000,
+                  "date": "2024-06-01"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "quarter3Id",
+          "quarter": 3,
+          "totalCollected": 700000,
+          "totalSpent": 300000,
+          "balance": 400000,
+          "status": 1,
+          "incomeSources": {
+            "corporateContributions": {
+              "totalCollected": 250000,
+              "totalSpent": 100000,
+              "balance": 150000,
+              "transactions": [
+                {
+                  "id": "txn11",
+                  "name": "OOO Xizmat LTD",
+                  "amount": 150000,
+                  "date": "2024-07-10"
+                },
+                {
+                  "id": "txn12",
+                  "name": "MCHJ TexnoInvest",
+                  "amount": 100000,
+                  "date": "2024-08-05"
+                }
+              ]
+            },
+            "governmentBudget": {
+              "totalCollected": 300000,
+              "totalSpent": 120000,
+              "balance": 180000,
+              "transactions": [
+                {
+                  "id": "txn13",
+                  "name": "O‘zbekiston Respublikasi Moliya Vazirligi",
+                  "amount": 300000,
+                  "date": "2024-07-20"
+                }
+              ]
+            },
+            "grantFunds": {
+              "totalCollected": 100000,
+              "totalSpent": 60000,
+              "balance": 40000,
+              "transactions": [
+                {
+                  "id": "txn14",
+                  "name": "Xalqaro Xayriya Jamg'armasi",
+                  "amount": 100000,
+                  "date": "2024-08-15"
+                }
+              ]
+            },
+            "regionalDepartment": {
+              "totalCollected": 50000,
+              "totalSpent": 20000,
+              "balance": 30000,
+              "transactions": [
+                {
+                  "id": "txn15",
+                  "name": "O‘ZKOJ Qashqadaryo viloyat bo‘limi",
+                  "amount": 50000,
+                  "date": "2024-09-01"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "quarter4Id",
+          "quarter": 4,
+          "totalCollected": 800000,
+          "totalSpent": 350000,
+          "balance": 450000,
+          "status": 1,
+          "incomeSources": {
+            "corporateContributions": {
+              "totalCollected": 300000,
+              "totalSpent": 120000,
+              "balance": 180000,
+              "transactions": [
+                {
+                  "id": "txn16",
+                  "name": "OOO Xizmat LTD",
+                  "amount": 180000,
+                  "date": "2024-10-10"
+                },
+                {
+                  "id": "txn17",
+                  "name": "MCHJ TexnoInvest",
+                  "amount": 120000,
+                  "date": "2024-11-05"
+                }
+              ]
+            },
+            "governmentBudget": {
+              "totalCollected": 350000,
+              "totalSpent": 150000,
+              "balance": 200000,
+              "transactions": [
+                {
+                  "id": "txn18",
+                  "name": "O‘zbekiston Respublikasi Moliya Vazirligi",
+                  "amount": 350000,
+                  "date": "2024-10-20"
+                }
+              ]
+            },
+            "grantFunds": {
+              "totalCollected": 100000,
+              "totalSpent": 60000,
+              "balance": 40000,
+              "transactions": [
+                {
+                  "id": "txn19",
+                  "name": "Xalqaro Xayriya Jamg'armasi",
+                  "amount": 100000,
+                  "date": "2024-11-15"
+                }
+              ]
+            },
+            "regionalDepartment": {
+              "totalCollected": 50000,
+              "totalSpent": 20000,
+              "balance": 30000,
+              "transactions": [
+                {
+                  "id": "txn20",
+                  "name": "O‘ZKOJ Qashqadaryo viloyat bo‘limi",
+                  "amount": 50000,
+                  "date": "2024-12-01"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "transactionId124",
+      "userId": "qvb123",
+      "year": 2024,
+      "quarters": [
+        {
+          "id": "quarter1Id_2024",
+          "quarter": 1,
+          "totalCollected": 450000,
+          "totalSpent": 180000,
+          "balance": 270000,
+          "status": 1,
+          "incomeSources": {
+            "corporateContributions": {
+              "totalCollected": 130000,
+              "totalSpent": 45000,
+              "balance": 85000,
+              "transactions": [
+                {
+                  "id": "txn1_2024",
+                  "name": "OOO Xizmat LTD",
+                  "amount": 80000,
+                  "date": "2024-01-10"
+                },
+                {
+                  "id": "txn2_2024",
+                  "name": "MCHJ TexnoInvest",
+                  "amount": 50000,
+                  "date": "2024-02-05"
+                }
+              ]
+            },
+            "governmentBudget": {
+              "totalCollected": 180000,
+              "totalSpent": 90000,
+              "balance": 90000,
+              "transactions": [
+                {
+                  "id": "txn3_2024",
+                  "name": "O'zbekiston Respublikasi Moliya Vazirligi",
+                  "amount": 180000,
+                  "date": "2024-01-20"
+                }
+              ]
+            },
+            "grantFunds": {
+              "totalCollected": 90000,
+              "totalSpent": 25000,
+              "balance": 65000,
+              "transactions": [
+                {
+                  "id": "txn4_2024",
+                  "name": "Xalqaro Xayriya Jamg'armasi",
+                  "amount": 90000,
+                  "date": "2024-02-15"
+                }
+              ]
+            },
+            "regionalDepartment": {
+              "totalCollected": 50000,
+              "totalSpent": 20000,
+              "balance": 30000,
+              "transactions": [
+                {
+                  "id": "txn5_2024",
+                  "name": "O'ZKOJ Qashqadaryo viloyat bo'limi",
+                  "amount": 50000,
+                  "date": "2024-03-01"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "quarter2Id_2024",
+          "quarter": 2,
+          "totalCollected": 550000,
+          "totalSpent": 220000,
+          "balance": 330000,
+          "status": 1,
+          "incomeSources": {
+            "corporateContributions": {
+              "totalCollected": 180000,
+              "totalSpent": 70000,
+              "balance": 110000,
+              "transactions": [
+                {
+                  "id": "txn6_2024",
+                  "name": "OOO Xizmat LTD",
+                  "amount": 100000,
+                  "date": "2024-04-10"
+                },
+                {
+                  "id": "txn7_2024",
+                  "name": "MCHJ TexnoInvest",
+                  "amount": 80000,
+                  "date": "2024-05-05"
+                }
+              ]
+            },
+            "governmentBudget": {
+              "totalCollected": 230000,
+              "totalSpent": 90000,
+              "balance": 140000,
+              "transactions": [
+                {
+                  "id": "txn8_2024",
+                  "name": "O'zbekiston Respublikasi Moliya Vazirligi",
+                  "amount": 230000,
+                  "date": "2024-04-20"
+                }
+              ]
+            },
+            "grantFunds": {
+              "totalCollected": 90000,
+              "totalSpent": 40000,
+              "balance": 50000,
+              "transactions": [
+                {
+                  "id": "txn9_2024",
+                  "name": "Xalqaro Xayriya Jamg'armasi",
+                  "amount": 90000,
+                  "date": "2024-05-15"
+                }
+              ]
+            },
+            "regionalDepartment": {
+              "totalCollected": 50000,
+              "totalSpent": 20000,
+              "balance": 30000,
+              "transactions": [
+                {
+                  "id": "txn10_2024",
+                  "name": "O'ZKOJ Qashqadaryo viloyat bo'limi",
+                  "amount": 50000,
+                  "date": "2024-06-01"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "quarter3Id_2024",
+          "quarter": 3,
+          "totalCollected": 650000,
+          "totalSpent": 280000,
+          "balance": 370000,
+          "status": 1,
+          "incomeSources": {
+            "corporateContributions": {
+              "totalCollected": 230000,
+              "totalSpent": 90000,
+              "balance": 140000,
+              "transactions": [
+                {
+                  "id": "txn11_2024",
+                  "name": "OOO Xizmat LTD",
+                  "amount": 130000,
+                  "date": "2024-07-10"
+                },
+                {
+                  "id": "txn12_2024",
+                  "name": "MCHJ TexnoInvest",
+                  "amount": 100000,
+                  "date": "2024-08-05"
+                }
+              ]
+            },
+            "governmentBudget": {
+              "totalCollected": 280000,
+              "totalSpent": 110000,
+              "balance": 170000,
+              "transactions": [
+                {
+                  "id": "txn13_2024",
+                  "name": "O'zbekiston Respublikasi Moliya Vazirligi",
+                  "amount": 280000,
+                  "date": "2024-07-20"
+                }
+              ]
+            },
+            "grantFunds": {
+              "totalCollected": 90000,
+              "totalSpent": 60000,
+              "balance": 30000,
+              "transactions": [
+                {
+                  "id": "txn14_2024",
+                  "name": "Xalqaro Xayriya Jamg'armasi",
+                  "amount": 90000,
+                  "date": "2024-08-15"
+                }
+              ]
+            },
+            "regionalDepartment": {
+              "totalCollected": 50000,
+              "totalSpent": 20000,
+              "balance": 30000,
+              "transactions": [
+                {
+                  "id": "txn15_2024",
+                  "name": "O'ZKOJ Qashqadaryo viloyat bo'limi",
+                  "amount": 50000,
+                  "date": "2024-09-01"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "quarter4Id_2024",
+          "quarter": 4,
+          "totalCollected": 750000,
+          "totalSpent": 320000,
+          "balance": 430000,
+          "status": 1,
+          "incomeSources": {
+            "corporateContributions": {
+              "totalCollected": 280000,
+              "totalSpent": 110000,
+              "balance": 170000,
+              "transactions": [
+                {
+                  "id": "txn16_2024",
+                  "name": "OOO Xizmat LTD",
+                  "amount": 160000,
+                  "date": "2024-10-10"
+                },
+                {
+                  "id": "txn17_2024",
+                  "name": "MCHJ TexnoInvest",
+                  "amount": 120000,
+                  "date": "2024-11-05"
+                }
+              ]
+            },
+            "governmentBudget": {
+              "totalCollected": 330000,
+              "totalSpent": 130000,
+              "balance": 200000,
+              "transactions": [
+                {
+                  "id": "txn18_2024",
+                  "name": "O'zbekiston Respublikasi Moliya Vazirligi",
+                  "amount": 330000,
+                  "date": "2024-10-20"
+                }
+              ]
+            },
+            "grantFunds": {
+              "totalCollected": 90000,
+              "totalSpent": 60000,
+              "balance": 30000,
+              "transactions": [
+                {
+                  "id": "txn19_2024",
+                  "name": "Xalqaro Xayriya Jamg'armasi",
+                  "amount": 90000,
+                  "date": "2024-11-15"
+                }
+              ]
+            },
+            "regionalDepartment": {
+              "totalCollected": 50000,
+              "totalSpent": 20000,
+              "balance": 30000,
+              "transactions": [
+                {
+                  "id": "txn20_2024",
+                  "name": "O'ZKOJ Qashqadaryo viloyat bo'limi",
+                  "amount": 50000,
+                  "date": "2024-12-01"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "transactionId125",
+      "userId": "qvb123",
+      "year": 2023,
+      "quarters": [
+        {
+          "id": "quarter1Id_2023",
+          "quarter": 1,
+          "totalCollected": 400000,
+          "totalSpent": 160000,
+          "balance": 240000,
+          "status": 1,
+          "incomeSources": {
+            "corporateContributions": {
+              "totalCollected": 120000,
+              "totalSpent": 40000,
+              "balance": 80000,
+              "transactions": [
+                {
+                  "id": "txn1_2023",
+                  "name": "OOO Xizmat LTD",
+                  "amount": 70000,
+                  "date": "2023-01-10"
+                },
+                {
+                  "id": "txn2_2023",
+                  "name": "MCHJ TexnoInvest",
+                  "amount": 50000,
+                  "date": "2023-02-05"
+                }
+              ]
+            },
+            "governmentBudget": {
+              "totalCollected": 160000,
+              "totalSpent": 80000,
+              "balance": 80000,
+              "transactions": [
+                {
+                  "id": "txn3_2023",
+                  "name": "O'zbekiston Respublikasi Moliya Vazirligi",
+                  "amount": 160000,
+                  "date": "2023-01-20"
+                }
+              ]
+            },
+            "grantFunds": {
+              "totalCollected": 80000,
+              "totalSpent": 20000,
+              "balance": 60000,
+              "transactions": [
+                {
+                  "id": "txn4_2023",
+                  "name": "Xalqaro Xayriya Jamg'armasi",
+                  "amount": 80000,
+                  "date": "2023-02-15"
+                }
+              ]
+            },
+            "regionalDepartment": {
+              "totalCollected": 40000,
+              "totalSpent": 20000,
+              "balance": 20000,
+              "transactions": [
+                {
+                  "id": "txn5_2023",
+                  "name": "O'ZKOJ Qashqadaryo viloyat bo'limi",
+                  "amount": 40000,
+                  "date": "2023-03-01"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "quarter2Id_2023",
+          "quarter": 2,
+          "totalCollected": 500000,
+          "totalSpent": 200000,
+          "balance": 300000,
+          "status": 1,
+          "incomeSources": {
+            "corporateContributions": {
+              "totalCollected": 160000,
+              "totalSpent": 60000,
+              "balance": 100000,
+              "transactions": [
+                {
+                  "id": "txn6_2023",
+                  "name": "OOO Xizmat LTD",
+                  "amount": 90000,
+                  "date": "2023-04-10"
+                },
+                {
+                  "id": "txn7_2023",
+                  "name": "MCHJ TexnoInvest",
+                  "amount": 70000,
+                  "date": "2023-05-05"
+                }
+              ]
+            },
+            "governmentBudget": {
+              "totalCollected": 200000,
+              "totalSpent": 80000,
+              "balance": 120000,
+              "transactions": [
+                {
+                  "id": "txn8_2023",
+                  "name": "O'zbekiston Respublikasi Moliya Vazirligi",
+                  "amount": 200000,
+                  "date": "2023-04-20"
+                }
+              ]
+            },
+            "grantFunds": {
+              "totalCollected": 80000,
+              "totalSpent": 40000,
+              "balance": 40000,
+              "transactions": [
+                {
+                  "id": "txn9_2023",
+                  "name": "Xalqaro Xayriya Jamg'armasi",
+                  "amount": 80000,
+                  "date": "2023-05-15"
+                }
+              ]
+            },
+            "regionalDepartment": {
+              "totalCollected": 60000,
+              "totalSpent": 20000,
+              "balance": 40000,
+              "transactions": [
+                {
+                  "id": "txn10_2023",
+                  "name": "O'ZKOJ Qashqadaryo viloyat bo'limi",
+                  "amount": 60000,
+                  "date": "2023-06-01"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "quarter3Id_2023",
+          "quarter": 3,
+          "totalCollected": 600000,
+          "totalSpent": 250000,
+          "balance": 350000,
+          "status": 1,
+          "incomeSources": {
+            "corporateContributions": {
+              "totalCollected": 200000,
+              "totalSpent": 80000,
+              "balance": 120000,
+              "transactions": [
+                {
+                  "id": "txn11_2023",
+                  "name": "OOO Xizmat LTD",
+                  "amount": 120000,
+                  "date": "2023-07-10"
+                },
+                {
+                  "id": "txn12_2023",
+                  "name": "MCHJ TexnoInvest",
+                  "amount": 80000,
+                  "date": "2023-08-05"
+                }
+              ]
+            },
+            "governmentBudget": {
+              "totalCollected": 250000,
+              "totalSpent": 100000,
+              "balance": 150000,
+              "transactions": [
+                {
+                  "id": "txn13_2023",
+                  "name": "O'zbekiston Respublikasi Moliya Vazirligi",
+                  "amount": 250000,
+                  "date": "2023-07-20"
+                }
+              ]
+            },
+            "grantFunds": {
+              "totalCollected": 100000,
+              "totalSpent": 50000,
+              "balance": 50000,
+              "transactions": [
+                {
+                  "id": "txn14_2023",
+                  "name": "Xalqaro Xayriya Jamg'armasi",
+                  "amount": 100000,
+                  "date": "2023-08-15"
+                }
+              ]
+            },
+            "regionalDepartment": {
+              "totalCollected": 50000,
+              "totalSpent": 20000,
+              "balance": 30000,
+              "transactions": [
+                {
+                  "id": "txn15_2023",
+                  "name": "O'ZKOJ Qashqadaryo viloyat bo'limi",
+                  "amount": 50000,
+                  "date": "2023-09-01"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "quarter4Id_2023",
+          "quarter": 4,
+          "totalCollected": 700000,
+          "totalSpent": 300000,
+          "balance": 400000,
+          "status": 1,
+          "incomeSources": {
+            "corporateContributions": {
+              "totalCollected": 250000,
+              "totalSpent": 100000,
+              "balance": 150000,
+              "transactions": [
+                {
+                  "id": "txn16_2023",
+                  "name": "OOO Xizmat LTD",
+                  "amount": 150000,
+                  "date": "2023-10-10"
+                },
+                {
+                  "id": "txn17_2023",
+                  "name": "MCHJ TexnoInvest",
+                  "amount": 100000,
+                  "date": "2023-11-05"
+                }
+              ]
+            },
+            "governmentBudget": {
+              "totalCollected": 300000,
+              "totalSpent": 120000,
+              "balance": 180000,
+              "transactions": [
+                {
+                  "id": "txn18_2023",
+                  "name": "O'zbekiston Respublikasi Moliya Vazirligi",
+                  "amount": 300000,
+                  "date": "2023-10-20"
+                }
+              ]
+            },
+            "grantFunds": {
+              "totalCollected": 100000,
+              "totalSpent": 60000,
+              "balance": 40000,
+              "transactions": [
+                {
+                  "id": "txn19_2023",
+                  "name": "Xalqaro Xayriya Jamg'armasi",
+                  "amount": 100000,
+                  "date": "2023-11-15"
+                }
+              ]
+            },
+            "regionalDepartment": {
+              "totalCollected": 50000,
+              "totalSpent": 20000,
+              "balance": 30000,
+              "transactions": [
+                {
+                  "id": "txn20_2023",
+                  "name": "O'ZKOJ Qashqadaryo viloyat bo'limi",
+                  "amount": 50000,
+                  "date": "2023-12-01"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+
+  "sponsorship-funds": [
+    {
+      "_id": "sasasadd",
+      "userId": "qvb123",
+      "year": 2025,
+      "quarters": [
+        {
+          "quarter": 1,
+          "financial_assistance": {
+            "totalCollected": 5000000,
+            "donations": [
+              {
+                "donor": "Korxona Nomi",
+                "amount": 5000000,
+                "currency": "UZS",
+                "date": "2024-01-15",
+                "description": "Ko‘rish qobiliyati past bolalar uchun yordam"
+              }
+            ]
+          },
+          "material_assistance": {
+            "totalCollected": 3000000,
+            "donations": [
+              {
+                "donor": "Xususiy shaxs",
+                "item": "Braille yozuv mashinkasi",
+                "date": "2024-02-10",
+                "quantity": 5,
+                "unit": "dona",
+                "total_value": 2500000
+              },
+              {
+                "donor": "Tashkilot A",
+                "item": "Ovozi bilan ishlaydigan soatlar",
+                "date": "2024-02-15",
+                "quantity": 10,
+                "unit": "dona",
+                "total_value": 500000
+              }
+            ]
+          }
+        },
+        {
+          "quarter": 2,
+          "financial_assistance": {
+            "totalCollected": 10000000,
+            "donations": [
+              {
+                "donor": "Bank X",
+                "amount": 10000000,
+                "currency": "UZS",
+                "date": "2024-05-12",
+                "description": "Maxsus texnika xarid qilish uchun"
+              }
+            ]
+          },
+          "material_assistance": {
+            "totalCollected": 8000000,
+            "donations": [
+              {
+                "donor": "Tashkilot Y",
+                "item": "Kompyuter",
+                "date": "2024-06-20",
+                "quantity": 2,
+                "unit": "dona",
+                "total_value": 8000000
+              }
+            ]
+          }
+        },
+        {
+          "quarter": 3,
+          "financial_assistance": {
+            "totalCollected": 10000000,
+            "donations": [
+              {
+                "donor": "Bank X",
+                "amount": 10000000,
+                "currency": "UZS",
+                "date": "2024-05-12",
+                "description": "Maxsus texnika xarid qilish uchun"
+              }
+            ]
+          },
+          "material_assistance": {
+            "totalCollected": 8000000,
+            "donations": [
+              {
+                "donor": "Tashkilot Y",
+                "item": "Kompyuter",
+                "date": "2024-06-20",
+                "quantity": 2,
+                "unit": "dona",
+                "total_value": 8000000
+              }
+            ]
+          }
+        },
+        {
+          "quarter": 4,
+          "financial_assistance": {
+            "totalCollected": 10000000,
+            "donations": [
+              {
+                "donor": "Bank X",
+                "amount": 10000000,
+                "currency": "UZS",
+                "date": "2024-05-12",
+                "description": "Maxsus texnika xarid qilish uchun"
+              }
+            ]
+          },
+          "material_assistance": {
+            "totalCollected": 8000000,
+            "donations": [
+              {
+                "donor": "Tashkilot Y",
+                "item": "Kompyuter",
+                "date": "2024-06-20",
+                "quantity": 2,
+                "unit": "dona",
+                "total_value": 8000000
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "_id": "sasasadd",
+      "userId": "qvb123",
+      "year": 2024,
+      "quarters": [
+        {
+          "quarter": 1,
+          "financial_assistance": {
+            "totalCollected": 5000000,
+            "donations": [
+              {
+                "donor": "Korxona Nomi",
+                "amount": 5000000,
+                "currency": "UZS",
+                "date": "2024-01-15",
+                "description": "Ko‘rish qobiliyati past bolalar uchun yordam"
+              }
+            ]
+          },
+          "material_assistance": {
+            "totalCollected": 3000000,
+            "donations": [
+              {
+                "donor": "Xususiy shaxs",
+                "item": "Braille yozuv mashinkasi",
+                "date": "2024-02-10",
+                "quantity": 5,
+                "unit": "dona",
+                "total_value": 2500000
+              },
+              {
+                "donor": "Tashkilot A",
+                "item": "Ovozi bilan ishlaydigan soatlar",
+                "date": "2024-02-15",
+                "quantity": 10,
+                "unit": "dona",
+                "total_value": 500000
+              }
+            ]
+          }
+        },
+        {
+          "quarter": 2,
+          "financial_assistance": {
+            "totalCollected": 10000000,
+            "donations": [
+              {
+                "donor": "Bank X",
+                "amount": 10000000,
+                "currency": "UZS",
+                "date": "2024-05-12",
+                "description": "Maxsus texnika xarid qilish uchun"
+              }
+            ]
+          },
+          "material_assistance": {
+            "totalCollected": 8000000,
+            "donations": [
+              {
+                "donor": "Tashkilot Y",
+                "item": "Kompyuter",
+                "date": "2024-06-20",
+                "quantity": 2,
+                "unit": "dona",
+                "total_value": 8000000
+              }
+            ]
+          }
+        },
+        {
+          "quarter": 3,
+          "financial_assistance": {
+            "totalCollected": 10000000,
+            "donations": [
+              {
+                "donor": "Bank X",
+                "amount": 10000000,
+                "currency": "UZS",
+                "date": "2024-05-12",
+                "description": "Maxsus texnika xarid qilish uchun"
+              }
+            ]
+          },
+          "material_assistance": {
+            "totalCollected": 8000000,
+            "donations": [
+              {
+                "donor": "Tashkilot Y",
+                "item": "Kompyuter",
+                "date": "2024-06-20",
+                "quantity": 2,
+                "unit": "dona",
+                "total_value": 8000000
+              }
+            ]
+          }
+        },
+        {
+          "quarter": 4,
+          "financial_assistance": {
+            "totalCollected": 10000000,
+            "donations": [
+              {
+                "donor": "Bank X",
+                "amount": 10000000,
+                "currency": "UZS",
+                "date": "2024-05-12",
+                "description": "Maxsus texnika xarid qilish uchun"
+              }
+            ]
+          },
+          "material_assistance": {
+            "totalCollected": 8000000,
+            "donations": [
+              {
+                "donor": "Tashkilot Y",
+                "item": "Kompyuter",
+                "date": "2024-06-20",
+                "quantity": 2,
+                "unit": "dona",
+                "total_value": 8000000
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "_id": "sasasadd",
+      "userId": "qvb123",
+      "year": 2023,
+      "quarters": [
+        {
+          "quarter": 1,
+          "financial_assistance": {
+            "totalCollected": 5000000,
+            "donations": [
+              {
+                "donor": "Korxona Nomi",
+                "amount": 5000000,
+                "currency": "UZS",
+                "date": "2024-01-15",
+                "description": "Ko‘rish qobiliyati past bolalar uchun yordam"
+              }
+            ]
+          },
+          "material_assistance": {
+            "totalCollected": 3000000,
+            "donations": [
+              {
+                "donor": "Xususiy shaxs",
+                "item": "Braille yozuv mashinkasi",
+                "date": "2024-02-10",
+                "quantity": 5,
+                "unit": "dona",
+                "total_value": 2500000
+              },
+              {
+                "donor": "Tashkilot A",
+                "item": "Ovozi bilan ishlaydigan soatlar",
+                "date": "2024-02-15",
+                "quantity": 10,
+                "unit": "dona",
+                "total_value": 500000
+              }
+            ]
+          }
+        },
+        {
+          "quarter": 2,
+          "financial_assistance": {
+            "totalCollected": 10000000,
+            "donations": [
+              {
+                "donor": "Bank X",
+                "amount": 10000000,
+                "currency": "UZS",
+                "date": "2024-05-12",
+                "description": "Maxsus texnika xarid qilish uchun"
+              }
+            ]
+          },
+          "material_assistance": {
+            "totalCollected": 8000000,
+            "donations": [
+              {
+                "donor": "Tashkilot Y",
+                "item": "Kompyuter",
+                "date": "2024-06-20",
+                "quantity": 2,
+                "unit": "dona",
+                "total_value": 8000000
+              }
+            ]
+          }
+        },
+        {
+          "quarter": 3,
+          "financial_assistance": {
+            "totalCollected": 10000000,
+            "donations": [
+              {
+                "donor": "Bank X",
+                "amount": 10000000,
+                "currency": "UZS",
+                "date": "2024-05-12",
+                "description": "Maxsus texnika xarid qilish uchun"
+              }
+            ]
+          },
+          "material_assistance": {
+            "totalCollected": 8000000,
+            "donations": [
+              {
+                "donor": "Tashkilot Y",
+                "item": "Kompyuter",
+                "date": "2024-06-20",
+                "quantity": 2,
+                "unit": "dona",
+                "total_value": 8000000
+              }
+            ]
+          }
+        },
+        {
+          "quarter": 4,
+          "financial_assistance": {
+            "totalCollected": 10000000,
+            "donations": [
+              {
+                "donor": "Bank X",
+                "amount": 10000000,
+                "currency": "UZS",
+                "date": "2024-05-12",
+                "description": "Maxsus texnika xarid qilish uchun"
+              }
+            ]
+          },
+          "material_assistance": {
+            "totalCollected": 8000000,
+            "donations": [
+              {
+                "donor": "Tashkilot Y",
+                "item": "Kompyuter",
+                "date": "2024-06-20",
+                "quantity": 2,
+                "unit": "dona",
+                "total_value": 8000000
+              }
+            ]
+          }
         }
       ]
     }
   ]
+
 }
