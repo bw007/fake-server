@@ -3067,123 +3067,151 @@
       "year": 2025,
       "quarters": [
         {
+          "id": 1,
           "quarter": 1,
-          "financial_assistance": {
-            "totalCollected": 5000000,
-            "donations": [
-              {
-                "donor": "Korxona Nomi",
-                "amount": 5000000,
-                "currency": "UZS",
-                "date": "2024-01-15",
-                "description": "Ko‘rish qobiliyati past bolalar uchun yordam"
-              }
-            ]
-          },
-          "material_assistance": {
-            "totalCollected": 3000000,
-            "donations": [
-              {
-                "donor": "Jismoniy shaxs",
-                "item": "Braille yozuv mashinkasi",
-                "date": "2024-02-10",
+          "donations": [
+            {
+              "donor": "Korxona A",
+              "amount": 5000000,
+              "type": "financial",
+              "date": "2024-01-15",
+              "description": "Ko'rish qobiliyati past bolalar uchun yordam",
+              "currency": "UZS"
+            },
+            {
+              "donor": "Jismoniy shaxs X",
+              "amount": 2500000,
+              "type": "material",
+              "date": "2024-02-10",
+              "description": "Braille yozuv mashinkasi",
+              "details": {
                 "quantity": 5,
                 "unit": "dona",
-                "total_value": 2500000
-              },
-              {
-                "donor": "Tashkilot A",
-                "item": "Ovozi bilan ishlaydigan soatlar",
-                "date": "2024-02-15",
-                "quantity": 10,
-                "unit": "dona",
-                "total_value": 500000
+                "item_name": "Braille yozuv mashinkasi"
               }
-            ]
+            },
+            {
+              "donor": "Tashkilot B",
+              "amount": 3000000,
+              "type": "financial",
+              "date": "2024-03-20",
+              "description": "Maxsus o'quv qurollari uchun",
+              "currency": "UZS"
+            }
+          ],
+          "summary": {
+            "total_financial": 8000000,
+            "total_material": 2500000,
+            "total": 10500000
           }
         },
         {
+          "id": 2,
           "quarter": 2,
-          "financial_assistance": {
-            "totalCollected": 10000000,
-            "donations": [
-              {
-                "donor": "Bank X",
-                "amount": 10000000,
-                "currency": "UZS",
-                "date": "2024-05-12",
-                "description": "Maxsus texnika xarid qilish uchun"
-              }
-            ]
-          },
-          "material_assistance": {
-            "totalCollected": 8000000,
-            "donations": [
-              {
-                "donor": "Tashkilot Y",
-                "item": "Kompyuter",
-                "date": "2024-06-20",
-                "quantity": 2,
+          "donations": [
+            {
+              "donor": "IT Kompaniya",
+              "amount": 7000000,
+              "type": "financial",
+              "date": "2024-04-05",
+              "description": "Kompyuter jihozlari uchun",
+              "currency": "UZS"
+            },
+            {
+              "donor": "Nodavlat tashkilot",
+              "amount": 4500000,
+              "type": "material",
+              "date": "2024-05-15",
+              "description": "Maxsus kitoblar to'plami",
+              "details": {
+                "quantity": 100,
                 "unit": "dona",
-                "total_value": 8000000
+                "item_name": "Braille kitoblari"
               }
-            ]
+            }
+          ],
+          "summary": {
+            "total_financial": 7000000,
+            "total_material": 4500000,
+            "total": 11500000
           }
         },
         {
+          "id": 3,
           "quarter": 3,
-          "financial_assistance": {
-            "totalCollected": 10000000,
-            "donations": [
-              {
-                "donor": "Bank X",
-                "amount": 10000000,
-                "currency": "UZS",
-                "date": "2024-05-12",
-                "description": "Maxsus texnika xarid qilish uchun"
+          "donations": [
+            {
+              "donor": "Xalqaro tashkilot",
+              "amount": 15000000,
+              "type": "financial",
+              "date": "2024-07-10",
+              "description": "Ta'lim dasturi uchun",
+              "currency": "UZS"
+            },
+            {
+              "donor": "Mahalliy korxona",
+              "amount": 3500000,
+              "type": "material",
+              "date": "2024-08-20",
+              "description": "Ovozli o'quv qurollari",
+              "details": {
+                "quantity": 15,
+                "unit": "komplekt",
+                "item_name": "Ovozli o'quv qurollari to'plami"
               }
-            ]
-          },
-          "material_assistance": {
-            "totalCollected": 8000000,
-            "donations": [
-              {
-                "donor": "Tashkilot Y",
-                "item": "Kompyuter",
-                "date": "2024-06-20",
-                "quantity": 2,
-                "unit": "dona",
-                "total_value": 8000000
-              }
-            ]
+            },
+            {
+              "donor": "Homiy Y",
+              "amount": 2000000,
+              "type": "financial",
+              "date": "2024-09-15",
+              "description": "Sport anjomlar uchun",
+              "currency": "UZS"
+            }
+          ],
+          "summary": {
+            "total_financial": 17000000,
+            "total_material": 3500000,
+            "total": 20500000
           }
         },
         {
+          "id": 4,
           "quarter": 4,
-          "financial_assistance": {
-            "totalCollected": 10000000,
-            "donations": [
-              {
-                "donor": "Bank X",
-                "amount": 10000000,
-                "currency": "UZS",
-                "date": "2024-05-12",
-                "description": "Maxsus texnika xarid qilish uchun"
+          "donations": [
+            {
+              "donor": "Bank",
+              "amount": 10000000,
+              "type": "financial",
+              "date": "2024-10-05",
+              "description": "Yangi yil sovg'alari uchun",
+              "currency": "UZS"
+            },
+            {
+              "donor": "Ishlab chiqarish korxonasi",
+              "amount": 5500000,
+              "type": "material",
+              "date": "2024-11-15",
+              "description": "Maxsus mebel jihozlari",
+              "details": {
+                "quantity": 8,
+                "unit": "komplekt",
+                "item_name": "Moslashtirilgan parta va stullar"
               }
-            ]
-          },
-          "material_assistance": {
-            "totalCollected": 8000000,
-            "donations": [
-              {
-                "donor": "Tashkilot Y",
-                "item": "Kompyuter",
-                "date": "2024-06-20",
-                "quantity": 2,
-                "unit": "dona",
-                "total_value": 8000000
-              }
-            ]
+            },
+            {
+              "donor": "Jismoniy shaxs Z",
+              "amount": 3000000,
+              "type": "financial",
+              "date": "2024-12-20",
+              "description": "Yangi yil tabriklari",
+              "currency": "UZS"
+            }
+          ],
+          "summary": {
+            "total_financial": 13000000,
+            "total_material": 5500000,
+            "total": 18500000
           }
         }
       ]
@@ -3194,123 +3222,151 @@
       "year": 2024,
       "quarters": [
         {
+          "id": 1,
           "quarter": 1,
-          "financial_assistance": {
-            "totalCollected": 5000000,
-            "donations": [
-              {
-                "donor": "Korxona Nomi",
-                "amount": 5000000,
-                "currency": "UZS",
-                "date": "2024-01-15",
-                "description": "Ko‘rish qobiliyati past bolalar uchun yordam"
-              }
-            ]
-          },
-          "material_assistance": {
-            "totalCollected": 3000000,
-            "donations": [
-              {
-                "donor": "Jismoniy shaxs",
-                "item": "Braille yozuv mashinkasi",
-                "date": "2024-02-10",
+          "donations": [
+            {
+              "donor": "Korxona A",
+              "amount": 5000000,
+              "type": "financial",
+              "date": "2024-01-15",
+              "description": "Ko'rish qobiliyati past bolalar uchun yordam",
+              "currency": "UZS"
+            },
+            {
+              "donor": "Jismoniy shaxs X",
+              "amount": 2500000,
+              "type": "material",
+              "date": "2024-02-10",
+              "description": "Braille yozuv mashinkasi",
+              "details": {
                 "quantity": 5,
                 "unit": "dona",
-                "total_value": 2500000
-              },
-              {
-                "donor": "Tashkilot A",
-                "item": "Ovozi bilan ishlaydigan soatlar",
-                "date": "2024-02-15",
-                "quantity": 10,
-                "unit": "dona",
-                "total_value": 500000
+                "item_name": "Braille yozuv mashinkasi"
               }
-            ]
+            },
+            {
+              "donor": "Tashkilot B",
+              "amount": 3000000,
+              "type": "financial",
+              "date": "2024-03-20",
+              "description": "Maxsus o'quv qurollari uchun",
+              "currency": "UZS"
+            }
+          ],
+          "summary": {
+            "total_financial": 8000000,
+            "total_material": 2500000,
+            "total": 10500000
           }
         },
         {
+          "id": 2,
           "quarter": 2,
-          "financial_assistance": {
-            "totalCollected": 10000000,
-            "donations": [
-              {
-                "donor": "Bank X",
-                "amount": 10000000,
-                "currency": "UZS",
-                "date": "2024-05-12",
-                "description": "Maxsus texnika xarid qilish uchun"
-              }
-            ]
-          },
-          "material_assistance": {
-            "totalCollected": 8000000,
-            "donations": [
-              {
-                "donor": "Tashkilot Y",
-                "item": "Kompyuter",
-                "date": "2024-06-20",
-                "quantity": 2,
+          "donations": [
+            {
+              "donor": "IT Kompaniya",
+              "amount": 7000000,
+              "type": "financial",
+              "date": "2024-04-05",
+              "description": "Kompyuter jihozlari uchun",
+              "currency": "UZS"
+            },
+            {
+              "donor": "Nodavlat tashkilot",
+              "amount": 4500000,
+              "type": "material",
+              "date": "2024-05-15",
+              "description": "Maxsus kitoblar to'plami",
+              "details": {
+                "quantity": 100,
                 "unit": "dona",
-                "total_value": 8000000
+                "item_name": "Braille kitoblari"
               }
-            ]
+            }
+          ],
+          "summary": {
+            "total_financial": 7000000,
+            "total_material": 4500000,
+            "total": 11500000
           }
         },
         {
+          "id": 3,
           "quarter": 3,
-          "financial_assistance": {
-            "totalCollected": 10000000,
-            "donations": [
-              {
-                "donor": "Bank X",
-                "amount": 10000000,
-                "currency": "UZS",
-                "date": "2024-05-12",
-                "description": "Maxsus texnika xarid qilish uchun"
+          "donations": [
+            {
+              "donor": "Xalqaro tashkilot",
+              "amount": 15000000,
+              "type": "financial",
+              "date": "2024-07-10",
+              "description": "Ta'lim dasturi uchun",
+              "currency": "UZS"
+            },
+            {
+              "donor": "Mahalliy korxona",
+              "amount": 3500000,
+              "type": "material",
+              "date": "2024-08-20",
+              "description": "Ovozli o'quv qurollari",
+              "details": {
+                "quantity": 15,
+                "unit": "komplekt",
+                "item_name": "Ovozli o'quv qurollari to'plami"
               }
-            ]
-          },
-          "material_assistance": {
-            "totalCollected": 8000000,
-            "donations": [
-              {
-                "donor": "Tashkilot Y",
-                "item": "Kompyuter",
-                "date": "2024-06-20",
-                "quantity": 2,
-                "unit": "dona",
-                "total_value": 8000000
-              }
-            ]
+            },
+            {
+              "donor": "Homiy Y",
+              "amount": 2000000,
+              "type": "financial",
+              "date": "2024-09-15",
+              "description": "Sport anjomlar uchun",
+              "currency": "UZS"
+            }
+          ],
+          "summary": {
+            "total_financial": 17000000,
+            "total_material": 3500000,
+            "total": 20500000
           }
         },
         {
+          "id": 4,
           "quarter": 4,
-          "financial_assistance": {
-            "totalCollected": 10000000,
-            "donations": [
-              {
-                "donor": "Bank X",
-                "amount": 10000000,
-                "currency": "UZS",
-                "date": "2024-05-12",
-                "description": "Maxsus texnika xarid qilish uchun"
+          "donations": [
+            {
+              "donor": "Bank",
+              "amount": 10000000,
+              "type": "financial",
+              "date": "2024-10-05",
+              "description": "Yangi yil sovg'alari uchun",
+              "currency": "UZS"
+            },
+            {
+              "donor": "Ishlab chiqarish korxonasi",
+              "amount": 5500000,
+              "type": "material",
+              "date": "2024-11-15",
+              "description": "Maxsus mebel jihozlari",
+              "details": {
+                "quantity": 8,
+                "unit": "komplekt",
+                "item_name": "Moslashtirilgan parta va stullar"
               }
-            ]
-          },
-          "material_assistance": {
-            "totalCollected": 8000000,
-            "donations": [
-              {
-                "donor": "Tashkilot Y",
-                "item": "Kompyuter",
-                "date": "2024-06-20",
-                "quantity": 2,
-                "unit": "dona",
-                "total_value": 8000000
-              }
-            ]
+            },
+            {
+              "donor": "Jismoniy shaxs Z",
+              "amount": 3000000,
+              "type": "financial",
+              "date": "2024-12-20",
+              "description": "Yangi yil tabriklari",
+              "currency": "UZS"
+            }
+          ],
+          "summary": {
+            "total_financial": 13000000,
+            "total_material": 5500000,
+            "total": 18500000
           }
         }
       ]
@@ -3321,123 +3377,151 @@
       "year": 2023,
       "quarters": [
         {
+          "id": 1,
           "quarter": 1,
-          "financial_assistance": {
-            "totalCollected": 5000000,
-            "donations": [
-              {
-                "donor": "Korxona Nomi",
-                "amount": 5000000,
-                "currency": "UZS",
-                "date": "2024-01-15",
-                "description": "Ko‘rish qobiliyati past bolalar uchun yordam"
-              }
-            ]
-          },
-          "material_assistance": {
-            "totalCollected": 3000000,
-            "donations": [
-              {
-                "donor": "Jismoniy shaxs",
-                "item": "Braille yozuv mashinkasi",
-                "date": "2024-02-10",
+          "donations": [
+            {
+              "donor": "Korxona A",
+              "amount": 5000000,
+              "type": "financial",
+              "date": "2024-01-15",
+              "description": "Ko'rish qobiliyati past bolalar uchun yordam",
+              "currency": "UZS"
+            },
+            {
+              "donor": "Jismoniy shaxs X",
+              "amount": 2500000,
+              "type": "material",
+              "date": "2024-02-10",
+              "description": "Braille yozuv mashinkasi",
+              "details": {
                 "quantity": 5,
                 "unit": "dona",
-                "total_value": 2500000
-              },
-              {
-                "donor": "Tashkilot A",
-                "item": "Ovozi bilan ishlaydigan soatlar",
-                "date": "2024-02-15",
-                "quantity": 10,
-                "unit": "dona",
-                "total_value": 500000
+                "item_name": "Braille yozuv mashinkasi"
               }
-            ]
+            },
+            {
+              "donor": "Tashkilot B",
+              "amount": 3000000,
+              "type": "financial",
+              "date": "2024-03-20",
+              "description": "Maxsus o'quv qurollari uchun",
+              "currency": "UZS"
+            }
+          ],
+          "summary": {
+            "total_financial": 8000000,
+            "total_material": 2500000,
+            "total": 10500000
           }
         },
         {
+          "id": 2,
           "quarter": 2,
-          "financial_assistance": {
-            "totalCollected": 10000000,
-            "donations": [
-              {
-                "donor": "Bank X",
-                "amount": 10000000,
-                "currency": "UZS",
-                "date": "2024-05-12",
-                "description": "Maxsus texnika xarid qilish uchun"
-              }
-            ]
-          },
-          "material_assistance": {
-            "totalCollected": 8000000,
-            "donations": [
-              {
-                "donor": "Tashkilot Y",
-                "item": "Kompyuter",
-                "date": "2024-06-20",
-                "quantity": 2,
+          "donations": [
+            {
+              "donor": "IT Kompaniya",
+              "amount": 7000000,
+              "type": "financial",
+              "date": "2024-04-05",
+              "description": "Kompyuter jihozlari uchun",
+              "currency": "UZS"
+            },
+            {
+              "donor": "Nodavlat tashkilot",
+              "amount": 4500000,
+              "type": "material",
+              "date": "2024-05-15",
+              "description": "Maxsus kitoblar to'plami",
+              "details": {
+                "quantity": 100,
                 "unit": "dona",
-                "total_value": 8000000
+                "item_name": "Braille kitoblari"
               }
-            ]
+            }
+          ],
+          "summary": {
+            "total_financial": 7000000,
+            "total_material": 4500000,
+            "total": 11500000
           }
         },
         {
+          "id": 3,
           "quarter": 3,
-          "financial_assistance": {
-            "totalCollected": 10000000,
-            "donations": [
-              {
-                "donor": "Bank X",
-                "amount": 10000000,
-                "currency": "UZS",
-                "date": "2024-05-12",
-                "description": "Maxsus texnika xarid qilish uchun"
+          "donations": [
+            {
+              "donor": "Xalqaro tashkilot",
+              "amount": 15000000,
+              "type": "financial",
+              "date": "2024-07-10",
+              "description": "Ta'lim dasturi uchun",
+              "currency": "UZS"
+            },
+            {
+              "donor": "Mahalliy korxona",
+              "amount": 3500000,
+              "type": "material",
+              "date": "2024-08-20",
+              "description": "Ovozli o'quv qurollari",
+              "details": {
+                "quantity": 15,
+                "unit": "komplekt",
+                "item_name": "Ovozli o'quv qurollari to'plami"
               }
-            ]
-          },
-          "material_assistance": {
-            "totalCollected": 8000000,
-            "donations": [
-              {
-                "donor": "Tashkilot Y",
-                "item": "Kompyuter",
-                "date": "2024-06-20",
-                "quantity": 2,
-                "unit": "dona",
-                "total_value": 8000000
-              }
-            ]
+            },
+            {
+              "donor": "Homiy Y",
+              "amount": 2000000,
+              "type": "financial",
+              "date": "2024-09-15",
+              "description": "Sport anjomlar uchun",
+              "currency": "UZS"
+            }
+          ],
+          "summary": {
+            "total_financial": 17000000,
+            "total_material": 3500000,
+            "total": 20500000
           }
         },
         {
+          "id": 4,
           "quarter": 4,
-          "financial_assistance": {
-            "totalCollected": 10000000,
-            "donations": [
-              {
-                "donor": "Bank X",
-                "amount": 10000000,
-                "currency": "UZS",
-                "date": "2024-05-12",
-                "description": "Maxsus texnika xarid qilish uchun"
+          "donations": [
+            {
+              "donor": "Bank",
+              "amount": 10000000,
+              "type": "financial",
+              "date": "2024-10-05",
+              "description": "Yangi yil sovg'alari uchun",
+              "currency": "UZS"
+            },
+            {
+              "donor": "Ishlab chiqarish korxonasi",
+              "amount": 5500000,
+              "type": "material",
+              "date": "2024-11-15",
+              "description": "Maxsus mebel jihozlari",
+              "details": {
+                "quantity": 8,
+                "unit": "komplekt",
+                "item_name": "Moslashtirilgan parta va stullar"
               }
-            ]
-          },
-          "material_assistance": {
-            "totalCollected": 8000000,
-            "donations": [
-              {
-                "donor": "Tashkilot Y",
-                "item": "Kompyuter",
-                "date": "2024-06-20",
-                "quantity": 2,
-                "unit": "dona",
-                "total_value": 8000000
-              }
-            ]
+            },
+            {
+              "donor": "Jismoniy shaxs Z",
+              "amount": 3000000,
+              "type": "financial",
+              "date": "2024-12-20",
+              "description": "Yangi yil tabriklari",
+              "currency": "UZS"
+            }
+          ],
+          "summary": {
+            "total_financial": 13000000,
+            "total_material": 5500000,
+            "total": 18500000
           }
         }
       ]
