@@ -3526,6 +3526,109 @@
         }
       ]
     }
-  ]
+  ],
 
+  "organizational-activities": [
+    { "id": 1, "userId": "qvb123", "type": "conference", "description": "XXI hisobot-saylov konferensiyasi", "date": "2025-02-10", "attendees": 150, "quarter": "Q1" },
+    { "id": 2, "userId": "qvb123", "type": "plenum", "description": "VBB plenumi", "date": "2025-03-20", "attendees": 80, "quarter": "Q1" },
+    { "id": 3, "userId": "qvb123", "type": "meeting", "description": "Boshqaruv rayosati majlisi", "date": "2025-04-15", "attendees": 60, "quarter": "Q2" },
+    { "id": 4, "userId": "qvb123", "type": "assembly", "description": "Jamiyat aʼzolarining umumiy yig‘ilishi", "date": "2025-05-25", "attendees": 100, "quarter": "Q2" },
+    { "id": 5, "userId": "qvb123", "type": "mbk_meeting", "description": "O’zKOJ MBK majlisi", "date": "2025-06-30", "attendees": 45, "quarter": "Q2" },
+    { "id": 6, "userId": "qvb123", "type": "ntk_meeting", "description": "Hududiy NTK yig‘ilishi", "date": "2025-07-10", "attendees": 30, "quarter": "Q3" },
+    { "id": 7, "userId": "qvb123", "type": "ntk_meeting_local", "description": "Mahalliy NTK yig‘ilishi", "date": "2025-08-05", "attendees": 25, "quarter": "Q3" },
+    { "id": 8, "userId": "qvb123", "type": "training", "description": "Faollar uchun seminar-trening", "date": "2025-09-12", "attendees": 70, "quarter": "Q3" },
+    { "id": 9, "userId": "qvb123", "type": "conference", "description": "XXII hisobot-saylov konferensiyasi", "date": "2025-10-08", "attendees": 160, "quarter": "Q4" },
+    { "id": 10, "userId": "qvb123", "type": "plenum", "description": "VBB plenumi", "date": "2025-11-15", "attendees": 90, "quarter": "Q4" },
+    { "id": 11, "userId": "qvb123", "type": "meeting", "description": "Boshqaruv rayosati majlisi", "date": "2025-12-22", "attendees": 55, "quarter": "Q4" },
+    { "id": 12, "userId": "qvb123", "type": "plenum", "description": "VBB plenumi", "date": "2025-03-20", "attendees": 80, "quarter": "Q1" },
+    { "id": 13, "userId": "qvb123", "type": "meeting", "description": "Boshqaruv rayosati majlisi", "date": "2025-04-15", "attendees": 60, "quarter": "Q2" },
+    { "id": 14, "userId": "qvb123", "type": "assembly", "description": "Jamiyat aʼzolarining umumiy yig‘ilishi", "date": "2025-05-25", "attendees": 100, "quarter": "Q2" },
+    { "id": 15, "userId": "qvb123", "type": "mbk_meeting", "description": "O’zKOJ MBK majlisi", "date": "2025-06-30", "attendees": 45, "quarter": "Q2" },
+    { "id": 16, "userId": "qvb123", "type": "ntk_meeting", "description": "Hududiy NTK yig‘ilishi", "date": "2025-07-10", "attendees": 30, "quarter": "Q3" },
+    { "id": 17, "userId": "qvb123", "type": "ntk_meeting_local", "description": "Mahalliy NTK yig‘ilishi", "date": "2025-08-05", "attendees": 25, "quarter": "Q3" },
+    { "id": 18, "userId": "qvb123", "type": "training", "description": "Faollar uchun seminar-trening", "date": "2025-09-12", "attendees": 70, "quarter": "Q3" },
+    { "id": 19, "userId": "qvb123", "type": "conference", "description": "XXII hisobot-saylov konferensiyasi", "date": "2025-10-08", "attendees": 160, "quarter": "Q4" },
+    { "id": 20, "userId": "qvb123", "type": "plenum", "description": "VBB plenumi", "date": "2025-11-15", "attendees": 90, "quarter": "Q4" },
+    { "id": 21, "userId": "qvb123", "type": "meeting", "description": "Boshqaruv rayosati majlisi", "date": "2025-12-22", "attendees": 55, "quarter": "Q4" }
+  ],
+
+  "cultural-centers": [
+    {
+      "id": "inst00fdf1",
+      "type": "culturalCenter",
+      "name": "Qashqadaryo madaniyat markazi",
+      "location": "Qarshi",
+      "usersCount": 150,
+      "userId": "qvb123"
+    },
+    {
+      "id": "inst002fdf",
+      "type": "library",
+      "name": "Qarshi maxsus kutubxonasi",
+      "location": "Qarshi",
+      "usersCount": 80,
+      "userId": "qvb123"
+    },
+    {
+      "id": "inst0fdf03",
+      "type": "club",
+      "name": "Badiiy xavaskorlik to‘garagi",
+      "category": "badiiy",
+      "culturalCenterId": "inst001",
+      "participantsCount": 25,
+      "userId": "qvb123"
+    },
+    {
+      "id": "inst001",
+      "type": "culturalCenter",
+      "name": "Qashqadaryo madaniyat markazi",
+      "location": "Qarshi",
+      "usersCount": 150,
+      "userId": "qvb123"
+    },
+    {
+      "id": "inst002",
+      "type": "library",
+      "name": "Qarshi maxsus kutubxonasi",
+      "location": "Qarshi",
+      "usersCount": 80,
+      "userId": "qvb123"
+    },
+    {
+      "id": "inst003",
+      "type": "club",
+      "name": "Badiiy xavaskorlik to‘garagi",
+      "category": "badiiy",
+      "culturalCenterId": "inst001",
+      "participantsCount": 25,
+      "userId": "qvb123"
+    },
+    {
+      "id": "instfdfd001",
+      "type": "culturalCenter",
+      "name": "Qashqadaryo madaniyat markazi",
+      "location": "Qarshi",
+      "usersCount": 150,
+      "userId": "qvb123"
+    },
+    {
+      "id": "inst0df02",
+      "type": "library",
+      "name": "Qarshi maxsus kutubxonasi",
+      "location": "Qarshi",
+      "usersCount": 80,
+      "userId": "qvb123"
+    },
+    {
+      "id": "instgh003",
+      "type": "club",
+      "name": "Badiiy xavaskorlik to‘garagi",
+      "category": "badiiy",
+      "culturalCenterId": "inst001",
+      "participantsCount": 25,
+      "userId": "qvb123"
+    }
+  ]
+  
+  
 }
