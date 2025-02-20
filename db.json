@@ -3557,7 +3557,7 @@
       "id": "inst00fdf1",
       "type": "culturalCenter",
       "name": "Qashqadaryo madaniyat markazi",
-      "location": "Qarshi",
+      "location": "Qarshi shahri",
       "usersCount": 150,
       "userId": "qvb123"
     },
@@ -3565,7 +3565,7 @@
       "id": "inst002fdf",
       "type": "library",
       "name": "Qarshi maxsus kutubxonasi",
-      "location": "Qarshi",
+      "location": "Qarshi shahri",
       "usersCount": 80,
       "userId": "qvb123"
     },
@@ -3574,6 +3574,7 @@
       "type": "club",
       "name": "Badiiy xavaskorlik to‘garagi",
       "category": "badiiy",
+      "location": "Mirishkor tumani",
       "culturalCenterId": "inst001",
       "participantsCount": 25,
       "userId": "qvb123"
@@ -3582,7 +3583,7 @@
       "id": "inst001",
       "type": "culturalCenter",
       "name": "Qashqadaryo madaniyat markazi",
-      "location": "Qarshi",
+      "location": "Qarshi shahri",
       "usersCount": 150,
       "userId": "qvb123"
     },
@@ -3590,7 +3591,7 @@
       "id": "inst002",
       "type": "library",
       "name": "Qarshi maxsus kutubxonasi",
-      "location": "Qarshi",
+      "location": "Qarshi shahri",
       "usersCount": 80,
       "userId": "qvb123"
     },
@@ -3599,6 +3600,7 @@
       "type": "club",
       "name": "Badiiy xavaskorlik to‘garagi",
       "category": "badiiy",
+      "location": "Kitob tumani",
       "culturalCenterId": "inst001",
       "participantsCount": 25,
       "userId": "qvb123"
@@ -3607,7 +3609,7 @@
       "id": "instfdfd001",
       "type": "culturalCenter",
       "name": "Qashqadaryo madaniyat markazi",
-      "location": "Qarshi",
+      "location": "Nishon tumani",
       "usersCount": 150,
       "userId": "qvb123"
     },
@@ -3615,7 +3617,7 @@
       "id": "inst0df02",
       "type": "library",
       "name": "Qarshi maxsus kutubxonasi",
-      "location": "Qarshi",
+      "location": "Nishon tumani",
       "usersCount": 80,
       "userId": "qvb123"
     },
@@ -3624,9 +3626,257 @@
       "type": "club",
       "name": "Badiiy xavaskorlik to‘garagi",
       "category": "badiiy",
+      "location": "Kitob tumani",
       "culturalCenterId": "inst001",
       "participantsCount": 25,
       "userId": "qvb123"
+    },
+    {
+      "id": "inst002",
+      "type": "library",
+      "name": "Qarshi maxsus kutubxonasi",
+      "location": "Qarshi shahri",
+      "usersCount": 80,
+      "userId": "qvb123"
+    },
+    {
+      "id": "inst003",
+      "type": "club",
+      "name": "Badiiy xavaskorlik to‘garagi",
+      "category": "badiiy",
+      "location": "Kitob tumani",
+      "culturalCenterId": "inst001",
+      "participantsCount": 25,
+      "userId": "qvb123"
+    },
+    {
+      "id": "instfdfd001",
+      "type": "culturalCenter",
+      "name": "Qashqadaryo madaniyat markazi",
+      "location": "Nishon tumani",
+      "usersCount": 150,
+      "userId": "qvb123"
+    },
+    {
+      "id": "inst0df02",
+      "type": "library",
+      "name": "Qarshi maxsus kutubxonasi",
+      "location": "Nishon tumani",
+      "usersCount": 80,
+      "userId": "qvb123"
+    },
+    {
+      "id": "instgh003",
+      "type": "club",
+      "name": "Badiiy xavaskorlik to‘garagi",
+      "category": "badiiy",
+      "location": "Kitob tumani",
+      "culturalCenterId": "inst001",
+      "participantsCount": 25,
+      "userId": "qvb123"
+    }
+  ],
+
+  "cultural-events": [
+    {
+      "id": "c7f2e82a-6a9e-4894-8479-e94497f6a24f",
+      "userId": "qvb123",
+      "name": "Ijodiy uchrashuv",
+      "type": "Ko`rik-tanlovlar",
+      "date": "2025-06-28",
+      "participantsCount": 108
+    },
+    {
+      "id": "4dfb62b6-98d5-4e88-863f-c97cf550df65",
+      "userId": "qvb123",
+      "name": "Ko'rik-tanlov",
+      "type": "Adabiy kechalar",
+      "date": "2025-11-09",
+      "participantsCount": 92
+    },
+    {
+      "id": "90cfb4c5-f32e-4c7d-991a-f9789fbc7e20",
+      "userId": "qvb123",
+      "name": "Madaniy sayohat",
+      "type": "Mavzuviy kechalar",
+      "date": "2025-12-30",
+      "participantsCount": 229
+    },
+    {
+      "id": "546b9cf7-8366-4951-8a6b-7808fc7e5f11",
+      "userId": "qvb123",
+      "name": "Yoshlar bilan davra suhbati",
+      "type": "Mavzuviy kechalar",
+      "date": "2025-06-08",
+      "participantsCount": 259
+    },
+    {
+      "id": "aa8ff8db-3f88-4dd6-8e6d-241e37d5abfd",
+      "userId": "qvb123",
+      "name": "Kitobxonlik kechasi",
+      "type": "Bayram tadbirlari",
+      "date": "2025-07-29",
+      "participantsCount": 48
+    },
+    {
+      "id": "c7f2e82a-6a9e-dasdsa4894-8479-e94497f6a24f",
+      "userId": "qvb123",
+      "name": "Ijodiy uchrashuv",
+      "type": "Ko`rik-tanlovlar",
+      "date": "2025-06-28",
+      "participantsCount": 108
+    },
+    {
+      "id": "4dfb62b6-98d5dasdadsa-4e88-863f-c97cf550df65",
+      "userId": "qvb123",
+      "name": "Ko'rik-tanlov",
+      "type": "Adabiy kechalar",
+      "date": "2025-11-09",
+      "participantsCount": 92
+    },
+    {
+      "id": "90cfb4c5-f32e-4c7d-sssss991a-f9789fbc7e20",
+      "userId": "qvb123",
+      "name": "Madaniy sayohat",
+      "type": "Mavzuviy kechalar",
+      "date": "2025-12-30",
+      "participantsCount": 229
+    },
+    {
+      "id": "546b9cf7-8366-495ssss1-8a6b-7808fc7e5f11",
+      "userId": "qvb123",
+      "name": "Yoshlar bilan davra suhbati",
+      "type": "Mavzuviy kechalar",
+      "date": "2025-06-08",
+      "participantsCount": 259
+    },
+    {
+      "id": "aa8ff8db-3f88-4fdfddd6-8e6d-241e37d5abfd",
+      "userId": "qvb123",
+      "name": "Kitobxonlik kechasi",
+      "type": "Bayram tadbirlari",
+      "date": "2025-07-29",
+      "participantsCount": 48
+    },
+    {
+      "id": "c7f2e82a-6a9e-48adfda94-8479-e94497f6a24f",
+      "userId": "qvb123",
+      "name": "Ijodiy uchrashuv",
+      "type": "Ko`rik-tanlovlar",
+      "date": "2025-06-28",
+      "participantsCount": 108
+    },
+    {
+      "id": "4dfb62b6-98d5-4e88-8fdaff63f-c97cf550df65",
+      "userId": "qvb123",
+      "name": "Ko'rik-tanlov",
+      "type": "Adabiy kechalar",
+      "date": "2025-11-09",
+      "participantsCount": 92
+    },
+    {
+      "id": "90cfb4c5-f32e-4c7d-9fdfd91a-f9789fbc7e20",
+      "userId": "qvb123",
+      "name": "Madaniy sayohat",
+      "type": "Mavzuviy kechalar",
+      "date": "2025-12-30",
+      "participantsCount": 229
+    },
+    {
+      "id": "546b9cf7-8366-4951-8a6fadffb-7808fc7e5f11",
+      "userId": "qvb123",
+      "name": "Yoshlar bilan davra suhbati",
+      "type": "Mavzuviy kechalar",
+      "date": "2025-06-08",
+      "participantsCount": 259
+    },
+    {
+      "id": "aa8ff8db-3f88-4dd6-8e6d-fafda241e37d5abfd",
+      "userId": "qvb123",
+      "name": "Kitobxonlik kechasi",
+      "type": "Bayram tadbirlari",
+      "date": "2025-07-29",
+      "participantsCount": 48
+    },
+    {
+      "id": "c7f2e82a-6a9e-4894-8479-e94497f6a24asdfsdff",
+      "userId": "qvb123",
+      "name": "Ijodiy uchrashuv",
+      "type": "Ko`rik-tanlovlar",
+      "date": "2025-06-28",
+      "participantsCount": 108
+    },
+    {
+      "id": "4dfb62b6-98d5-4e88-863f-c97cf550df6faf5",
+      "userId": "qvb123",
+      "name": "Ko'rik-tanlov",
+      "type": "Adabiy kechalar",
+      "date": "2025-11-09",
+      "participantsCount": 92
+    },
+    {
+      "id": "90cfb4c5-f32e-4c7d-991a-f9789fbc7e2asf0",
+      "userId": "qvb123",
+      "name": "Madaniy sayohat",
+      "type": "Mavzuviy kechalar",
+      "date": "2025-12-30",
+      "participantsCount": 229
+    },
+    {
+      "id": "546b9cf7-8366-4951-8a6b-7808fc7e5f1fdfasf1",
+      "userId": "qvb123",
+      "name": "Yoshlar bilan davra suhbati",
+      "type": "Mavzuviy kechalar",
+      "date": "2025-06-08",
+      "participantsCount": 259
+    },
+    {
+      "id": "aa8ff8db-3f88-4dd6-8e6d-241e37d5aafdfdfbfd",
+      "userId": "qvb123",
+      "name": "Kitobxonlik kechasi",
+      "type": "Bayram tadbirlari",
+      "date": "2025-07-29",
+      "participantsCount": 48
+    },
+    {
+      "id": "c7f2e82a-6a9e-4894-8479-e944fdfaa97f6a24f",
+      "userId": "qvb123",
+      "name": "Ijodiy uchrashuv",
+      "type": "Ko`rik-tanlovlar",
+      "date": "2025-06-28",
+      "participantsCount": 108
+    },
+    {
+      "id": "4dfb62b6-98d5-4e88-863f-afdac97cf550df65",
+      "userId": "qvb123",
+      "name": "Ko'rik-tanlov",
+      "type": "Adabiy kechalar",
+      "date": "2025-11-09",
+      "participantsCount": 92
+    },
+    {
+      "id": "90cfb4c5-f32e-4c7d-9fdfd91a-f9789fbc7e20",
+      "userId": "qvb123",
+      "name": "Madaniy sayohat",
+      "type": "Mavzuviy kechalar",
+      "date": "2025-12-30",
+      "participantsCount": 229
+    },
+    {
+      "id": "546b9cf7-8366-495fdf1-8a6b-7808fc7e5f11",
+      "userId": "qvb123",
+      "name": "Yoshlar bilan davra suhbati",
+      "type": "Mavzuviy kechalar",
+      "date": "2025-06-08",
+      "participantsCount": 259
+    },
+    {
+      "id": "aa8ff8db-3f88-4ggdd6-8e6d-241e37d5abfd",
+      "userId": "qvb123",
+      "name": "Kitobxonlik kechasi",
+      "type": "Bayram tadbirlari",
+      "date": "2025-07-29",
+      "participantsCount": 48
     }
   ]
   
