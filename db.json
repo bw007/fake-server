@@ -4031,6 +4031,31 @@
       "employmentDate": "2018-02-20",
       "status": "Faol"
     }
+  ],
+
+  "reports": [
+    {
+      "id": "1",
+      "userId": "qvb123",
+      "year": 2024,
+      "quarter": 1,
+      "organization": "Koson tumani",
+      "period": {
+        "startDate": "2025-01-01",
+        "endDate": "2025-01-31"
+      }
+    },
+    {
+      "id": "2",
+      "userId": "qvb123",
+      "year": 2024,
+      "quarter": 1,
+      "organization": "Koson tumani",
+      "period": {
+        "startDate": "2025-01-01",
+        "endDate": "2025-01-31"
+      }
+    }
   ]
   
 }
