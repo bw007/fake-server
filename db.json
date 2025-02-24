@@ -1424,7 +1424,8 @@
 
   "organization-plan": [
     {
-      "organization": "1",
+      "id": "1",
+      "organization": "Qarshi tumani",
       "implementation": "2025",
       "userId": "qvb123",
       "organizational": {
@@ -1655,7 +1656,8 @@
       }
     },
     {
-      "organization": "2",
+      "id": "2",
+      "organization": "Kasbi tumani",
       "implementation": "2024",
       "userId": "qvb123",
       "organizational": {
